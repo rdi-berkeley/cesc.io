@@ -17,6 +17,10 @@ Marko Vukolic (Protocol Labs)
 - Submission deadline: July 28, 2022
 - Author notification: September 1, 2022
 - Conference: Oct 31 -- Nov 2, 2022
+- **Other affiliated events:**
+    - **CESC Hackathon**
+    - **GameFi Day**
+
 
 # Topic of Interest
 
