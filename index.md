@@ -2,7 +2,7 @@
 layout: home
 ---
 
-The Crypto Economics Security Conference (CESC) aims to bring together researchers and practitioners to present the most recent developments in blockchain and Web3.
+The Crypto Economics Security Conference (CESC) aims to bring together researchers and practitioners to showcase and discuss the most recent developments in blockchain and Web3.
 
 # Program Co-chairs
 
@@ -16,7 +16,7 @@ Marko Vukolic (Protocol Labs)
 
 - Submission deadline: July 28, 2022
 - Author notification: September 1, 2022
-- Conference: October 31, 2022
+- Conference: Oct 31 -- Nov 2, 2022
 
 # Topic of Interest
 
