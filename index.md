@@ -21,6 +21,10 @@ Marko Vukolic (Protocol Labs)
     - **CESC Hackathon**
     - **GameFi Day**
 
+# Location
+
+UC Berkeley Campus
+
 
 # Topic of Interest
 
