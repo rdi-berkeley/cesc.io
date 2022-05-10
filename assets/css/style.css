@@ -4,7 +4,7 @@ body {
   margin: 0;
   background:#ffffff no-repeat right top;
   background-size: 100%;
-  font-family: 'Lato', sans-serif;
+  font-family: 'Poppins', sans-serif;
 }
 
 h2, h3 {
@@ -175,6 +175,7 @@ h2, h3 {
 .bottom-seperator {
   margin-left: 15px;
   margin-right: 15px;
+  margin-top: 20px;
   font-size: 16pt;
   color: #75a384;
 }
@@ -286,7 +287,7 @@ h2, h3 {
 	font-weight: 700;
 	font-size: 1rem;
   line-height: 1.5;
-	font-family: 'Lato', sans-serif;
+	font-family: 'Poppins', sans-serif;
 	cursor: pointer;
 	-webkit-appearance: none;
 	-webkit-font-smoothing: antialiased;
@@ -320,4 +321,56 @@ h2, h3 {
 .event-a:hover {
   color: #003262;
   text-decoration: underline!important;
+}
+
+.schedule-container {
+  margin: 0.67em 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.home-hero {
+  font-size: 1.4rem; 
+  text-align: left; 
+  width: 80%; 
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: white;
+}
+
+.home-hero-container {
+  margin-top: 25px;
+  min-height: 400px;
+  height: 50vh;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+  border-radius: 8px;
+}
+
+.home-hero-container h1 {
+  margin: 0;
+}
+
+
+@media (max-width: 768px) {
+  .schedule-container {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+  }
+  .home-hero {
+    font-size: 1rem; 
+  }
+  .constraint {
+    margin-left: 0;
+    margin-right: 0;
+  }
+  .home-hero-container {
+    margin-top: 0;
+    border-radius: 0;
+  }
 }
