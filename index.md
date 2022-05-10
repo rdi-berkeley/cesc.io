@@ -58,11 +58,11 @@ layout: home
         <p style="margin-top: 0;">Early-stage innovative ideas or arguable opinions and positions (as a position paper), which could lead to productive community discussions that shed light in future directions. (Please prefix the title with WIP, max 6 pages)</p>
         <p style="margin-bottom: 0; font-weight: 700; color: #CB9445;">Systematization of Knowledge:</p>
         <p style="margin-top: 0;">SoK papers evaluate, systemitize, and contextualize existing knowledge, which provides a high value to our community. (Please prefix the title with SOK, min 6 pages, reviewers will only read first 10 pages)</p>
-        <p style="margin-bottom: 0; font-weight: 700; color: #CB9445;">Proceedings and Submission at other Conferences:</p>
-        <p style="margin-top: 0;">CESC is not archival and does not have proceedings. It is allowed to submit work which has been published at or concurrently submitted to another conference or a journal.</p>
-        <p style="margin-bottom: 0; font-weight: 700; color: #CB9445;">Anonymous Submission (Optional):</p>
-        <p style="margin-top: 0;">Papers can <span style="font-weight: 700;">optionally</span> be anonymized. If the authors choose to be anonymized, then no author names or affiliations should appear on the title page, and the submission should not disclose the authors' identities in the document.</p>
     </div>
+    <p style="margin-bottom: 0; font-weight: 700; color: #CB9445;">Proceedings and Submission at other Conferences:</p>
+    <p style="margin-top: 0;">CESC is not archival and does not have proceedings. It is allowed to submit work which has been published at or concurrently submitted to another conference or a journal.</p>
+    <p style="margin-bottom: 0; font-weight: 700; color: #CB9445;">Anonymous Submission (Optional):</p>
+    <p style="margin-top: 0;">Papers can <span style="font-weight: 700;">optionally</span> be anonymized. If the authors choose to be anonymized, then no author names or affiliations should appear on the title page, and the submission should not disclose the authors' identities in the document.</p>
     <p style="margin-bottom: 0; font-weight: 700; color: #CB9445;">Conflict of Interest:</p>
     <p style="margin-top: 0;">If you have any conflict of interest with a member of the program committee, please note it in the designated section of the HotCRP submission form.</p>
 </div>
