@@ -66,5 +66,26 @@ layout: home
     <p style="margin-bottom: 0; font-weight: 700; color: #CB9445;">Conflict of Interest:</p>
     <p style="margin-top: 0;">If you have any conflict of interest with a member of the program committee, please note it in the designated section of the HotCRP submission form.</p>
 </div>
+<div style="text-align: left; color: #18233D; width: 100%; margin: auto;">
+    <h1 style="font-weight: 500; color: #CB9445;">Organizing Committee</h1>
+    <p style="font-weight: 700;">Programming Committee</p>
+    <ul>
+        <li>Ittai Abraham, VMware Research</li>
+        <li>Zeta Avarikioti, Institute of Science and Technology Austria</li>
+        <li>Sarah Azouvi, Protocol Labs</li>
+        <li>Joseph Bonneau, a16z</li>
+        <li>Natacha Crooks, UC Berkeley</li>
+        <li>Ittay Eyal, Technion University</li>
+        <li>Sanjam Garg, UC Berkeley</li>
+        <li>Juan Gary, Texas A&M University</li>
+        <li>Philipp Jovanovic, University College London</li>
+        <li>Dahlia Malkhi, ChainLink Labs</li>
+        <li>Christine Parlour, UC Berkeley</li>
+        <li>Ling Ren, UIUC</li>
+        <li>Tim Roughgarden, Columbia University</li>
+        <li>Clara Shikhelman, Chaincode Labs</li>
+        <li>Yupeng Zhang, Texas A&M University</li>
+    </ul>
+</div>
 
 **Please contact us at [cesc22chair@gmail.com](mailto:cesc22chair@gmail.com), if you need more information or have any questions about the paper submission policy.**
