@@ -7,10 +7,42 @@ layout: default
 background-position: center;'>
         <div class='home-hero'>
             <img src='../cesc/assets/images/cesc-logo.png' style="height: 45px; width: auto;"></img>
-            <!-- <img src='../cesc/assets/images/rdi-logo-new.png' style="height: 45px; width: auto; margin-left: 20px;"></img> -->
             <h1 style="font-weight: 400;">Crypto Economics Security Conference</h1>
             <h1>CESC 2022</h1>
+            
     </div>
+    <style scoped>
+        .rdi-link {
+            position: absolute; 
+            bottom: 25px; 
+            right: 35px; 
+            text-decoration: none; 
+            color: white;
+        }
+        .rdi-logo {
+            height: 48px; 
+            width: auto; 
+            margin-left: 10px;
+        }
+        @media (max-width: 768px) {
+            .rdi-link {
+                position: absolute; 
+                bottom: 20px;
+                width: fit-content; 
+                left: 50%;
+                transform: translate(-50%, 0);
+            }
+            .rdi-logo {
+            height: 35px; 
+        }
+        }
+    </style>
+    <a class="rdi-link" target="_blank" href="https://rdi.berkeley.edu/">
+        <div style="display: flex; margin-top: 10px; align-items: center;">
+            <span style="font-size: 13px;">Hosted by</span>
+            <img class="rdi-logo" src='../cesc/assets/images/rdi-logo-new.png'></img>
+        </div>
+    </a>
 </div>
 
 <div id="main-text-container" style="font-size: 12pt; font-family: 'Poppins', sans-serif; font-weight: 300; margin-bottom: 40px;">

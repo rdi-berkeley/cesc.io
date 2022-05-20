@@ -345,6 +345,8 @@ h2, h3 {
   margin-top: 25px;
   min-height: 400px;
   height: 50vh;
+  margin-left: 0;
+  margin-right: 0;
   background-repeat: no-repeat;
   background-size: cover;
   position: relative;
@@ -353,6 +355,30 @@ h2, h3 {
 
 .home-hero-container h1 {
   margin: 0;
+}
+
+.sponsor-container {
+  display: flex; 
+  justify-content: space-between;
+}
+
+.sponsor-img {
+  height: 10vw; 
+  max-height: 130px; 
+  width: auto;
+}
+
+.sponsor-text {
+  text-align: center; 
+  margin-top: 10px; 
+  font-weight: 700; 
+  width: 10vw; 
+  max-width: 130px;
+}
+
+.sponsor-text-wide {
+  width: 14vw !important; 
+  max-width: 170px !important;
 }
 
 
@@ -373,4 +399,20 @@ h2, h3 {
     margin-top: 0;
     border-radius: 0;
   }
+  .sponsor-container {
+    flex-direction: column;
+    align-items: center;
+  }
+  .sponsor-img {
+    height: 25vw; 
+    width: auto !important;
+  }
+  /* .sponsor-text {
+    text-align: center; 
+    margin-top: 10px; 
+    font-weight: 700; 
+    width: 100% !important; 
+    max-width: 100% !important;
+    margin-bottom: 35px;
+  } */
 }

@@ -4,10 +4,6 @@ layout: home
 
 <div style="text-align: left; color: #18233D;">
     <p style="margin-top: 40px; font-size: 1.25rem;">The Crypto Economics Security Conference (CESC) aims to bring together researchers and practitioners to showcase and discuss the most recent developments in blockchain and Web3.</p>
-    <h1 style="font-weight: 500; color: #CB9445;">Program Co-chairs</h1>
-    <p style="margin: 0;">Arthur <span style="font-weight: 700;">Gervais</span> (Imperial College London)</p>
-    <p style="margin: 0;">Dawn <span style="font-weight: 700;">Song</span> (University of California, Berkeley)</p>
-    <p style="margin: 0;">Marko <span style="font-weight: 700;">Vukolic</span> (Protocol Labs)</p>
     <h1 style="font-weight: 500; color: #CB9445;">Schedule</h1>
     <div class="schedule-container">
         <div>
@@ -20,16 +16,44 @@ layout: home
         </div>
         <div>
             <p style="margin: 0; font-weight: 700;">Conference:</p>
-            <p style="margin: 0; color: #CB9445;">Nov 2, 2022</p>
+            <p style="margin: 0; color: #CB9445;">Oct 31 - Nov 2, 2022</p>
         </div>
         <div>
             <p style="margin: 0; font-weight: 700;">Other affiliated events:</p>
-            <p style="margin: 0; color: #CB9445;">CESC Hackathon</p>
+            <p style="margin: 0; color: #CB9445;">Xcelerator Demo Day</p>
             <p style="margin: 0; color: #CB9445;">GameFi Day</p>
+            <p style="margin: 0; color: #CB9445;">Career Fair</p>
         </div>
     </div>
-    <h1 style="font-weight: 500; color: #CB9445;">Location</h1>
+    <h1 style="font-weight: 500; color: #CB9445; margin-top: 0;">Location</h1>
     <p style="font-weight: 700;">UC Berkeley <span style="font-weight: 500;">Campus</span></p>
+</div>
+<div style="text-align: left; color: #18233D; width: 100%; margin: auto;">
+    <h1 style="font-weight: 500; color: #CB9445;">Organizing Committee</h1>
+    <p style="font-weight: 700;">Program Chairs</p>
+    <ul>
+        <li>Arthur Gervais, Imperial College London</li>
+        <li>Dawn Song, UC Berkeley</li>
+        <li>Marko Vukolic, Protocol Labs</li>
+    </ul>
+    <p style="font-weight: 700;">Program Committee</p>
+    <ul>
+        <li>Ittai Abraham, VMware Research</li>
+        <li>Zeta Avarikioti, Institute of Science and Technology Austria</li>
+        <li>Sarah Azouvi, Protocol Labs</li>
+        <li>Joseph Bonneau, a16z</li>
+        <li>Natacha Crooks, UC Berkeley</li>
+        <li>Ittay Eyal, Technion University</li>
+        <li>Sanjam Garg, UC Berkeley</li>
+        <li>Juan Garay, Texas A&M University</li>
+        <li>Philipp Jovanovic, University College London</li>
+        <li>Dahlia Malkhi, ChainLink Labs</li>
+        <li>Christine Parlour, UC Berkeley</li>
+        <li>Ling Ren, UIUC</li>
+        <li>Tim Roughgarden, Columbia University</li>
+        <li>Clara Shikhelman, Chaincode Labs</li>
+        <li>Yupeng Zhang, Texas A&M University</li>
+    </ul>
 </div>
 <div style="text-align: left; color: #18233D; width: 100%; margin: auto;">
     <h1 style="font-weight: 500; color: #CB9445;">Topics of Interest</h1>
@@ -67,25 +91,29 @@ layout: home
     <p style="margin-top: 0;">If you have any conflict of interest with a member of the program committee, please note it in the designated section of the HotCRP submission form.</p>
 </div>
 <div style="text-align: left; color: #18233D; width: 100%; margin: auto;">
-    <h1 style="font-weight: 500; color: #CB9445;">Organizing Committee</h1>
-    <p style="font-weight: 700;">Programming Committee</p>
-    <ul>
-        <li>Ittai Abraham, VMware Research</li>
-        <li>Zeta Avarikioti, Institute of Science and Technology Austria</li>
-        <li>Sarah Azouvi, Protocol Labs</li>
-        <li>Joseph Bonneau, a16z</li>
-        <li>Natacha Crooks, UC Berkeley</li>
-        <li>Ittay Eyal, Technion University</li>
-        <li>Sanjam Garg, UC Berkeley</li>
-        <li>Juan Garay, Texas A&M University</li>
-        <li>Philipp Jovanovic, University College London</li>
-        <li>Dahlia Malkhi, ChainLink Labs</li>
-        <li>Christine Parlour, UC Berkeley</li>
-        <li>Ling Ren, UIUC</li>
-        <li>Tim Roughgarden, Columbia University</li>
-        <li>Clara Shikhelman, Chaincode Labs</li>
-        <li>Yupeng Zhang, Texas A&M University</li>
-    </ul>
+    <h1 style="font-weight: 500; color: #CB9445;">Affiliates and Sponsors</h1>
+    <div class="sponsor-container">
+        <!-- <div style="display: flex; flex-direction: column; align-items: center;"> -->
+        <div>
+            <img class="sponsor-img" src='../cesc/assets/images/sponsors/1.png' />
+            <!-- <p class="sponsor-text">SF Blockchain Week 2022</p> -->
+        </div>
+        <!-- <div style="display: flex; flex-direction: column; align-items: center;"> -->
+        <div>
+            <img src='../cesc/assets/images/sponsors/2.png' class="sponsor-img" />
+            <!-- <p class="sponsor-text">GAME7</p> -->
+        </div>
+        <!-- <div style="display: flex; flex-direction: column; align-items: center;"> -->
+        <div>
+            <img src='../cesc/assets/images/sponsors/3.png' class="sponsor-img" />
+            <!-- <p class="sponsor-text">Blockchain at Berkeley</p> -->
+        </div>
+        <!-- <div style="display: flex; flex-direction: column; align-items: center;"> -->
+        <div>
+            <img src='../cesc/assets/images/sponsors/4.png' class="sponsor-img" />
+            <!-- <p class="sponsor-text sponsor-text-wide">Berkeley Blockchain Xcelerator</p> -->
+        </div>
+    </div>
 </div>
 
 **Please contact us at [cesc22chair@gmail.com](mailto:cesc22chair@gmail.com), if you need more information or have any questions about the paper submission policy.**
