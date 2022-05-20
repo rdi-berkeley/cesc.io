@@ -77,7 +77,7 @@ layout: home
         <li>Natacha Crooks, UC Berkeley</li>
         <li>Ittay Eyal, Technion University</li>
         <li>Sanjam Garg, UC Berkeley</li>
-        <li>Juan Gary, Texas A&M University</li>
+        <li>Juan Garay, Texas A&M University</li>
         <li>Philipp Jovanovic, University College London</li>
         <li>Dahlia Malkhi, ChainLink Labs</li>
         <li>Christine Parlour, UC Berkeley</li>
