@@ -95,22 +95,22 @@ layout: home
     <div class="sponsor-container">
         <!-- <div style="display: flex; flex-direction: column; align-items: center;"> -->
         <div>
-            <img class="sponsor-img" src='../cesc/assets/images/sponsors/1.png' />
+            <img class="sponsor-img" src='/assets/images/sponsors/1.png' />
             <!-- <p class="sponsor-text">SF Blockchain Week 2022</p> -->
         </div>
         <!-- <div style="display: flex; flex-direction: column; align-items: center;"> -->
         <div>
-            <img src='../cesc/assets/images/sponsors/2.png' class="sponsor-img" />
+            <img src='/assets/images/sponsors/2.png' class="sponsor-img" />
             <!-- <p class="sponsor-text">GAME7</p> -->
         </div>
         <!-- <div style="display: flex; flex-direction: column; align-items: center;"> -->
         <div>
-            <img src='../cesc/assets/images/sponsors/3.png' class="sponsor-img" />
+            <img src='/assets/images/sponsors/3.png' class="sponsor-img" />
             <!-- <p class="sponsor-text">Blockchain at Berkeley</p> -->
         </div>
         <!-- <div style="display: flex; flex-direction: column; align-items: center;"> -->
         <div>
-            <img src='../cesc/assets/images/sponsors/4.png' class="sponsor-img" />
+            <img src='/assets/images/sponsors/4.png' class="sponsor-img" />
             <!-- <p class="sponsor-text sponsor-text-wide">Berkeley Blockchain Xcelerator</p> -->
         </div>
     </div>
