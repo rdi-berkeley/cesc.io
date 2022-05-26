@@ -23,6 +23,7 @@ layout: home
             <p style="margin: 0; color: #CB9445;">Xcelerator Demo Day</p>
             <p style="margin: 0; color: #CB9445;">GameFi Day</p>
             <p style="margin: 0; color: #CB9445;">Career Fair</p>
+            <p style="margin: 0; color: #CB9445;">SF Blockchain Week</p>
         </div>
     </div>
     <h1 style="font-weight: 500; color: #CB9445; margin-top: 0;">Location</h1>
@@ -48,11 +49,14 @@ layout: home
         <li>Juan Garay, Texas A&M University</li>
         <li>Philipp Jovanovic, University College London</li>
         <li>Dahlia Malkhi, ChainLink Labs</li>
+        <li>Patrick McCorry, Infura</li>
+        <li>Andrew Miller, UIUC</li>
         <li>Christine Parlour, UC Berkeley</li>
         <li>Ling Ren, UIUC</li>
         <li>Tim Roughgarden, Columbia University</li>
         <li>Clara Shikhelman, Chaincode Labs</li>
         <li>Yupeng Zhang, Texas A&M University</li>
+        <li>Fan Zhang, Duke University</li>
     </ul>
 </div>
 <div style="text-align: left; color: #18233D; width: 100%; margin: auto;">
