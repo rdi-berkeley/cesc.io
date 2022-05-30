@@ -54,6 +54,7 @@ layout: home
         <li>Christine Parlour, UC Berkeley</li>
         <li>Ling Ren, UIUC</li>
         <li>Tim Roughgarden, Columbia University</li>
+        <li>Arnab Roy, Meta Platform</li>
         <li>Clara Shikhelman, Chaincode Labs</li>
         <li>Yupeng Zhang, Texas A&M University</li>
         <li>Fan Zhang, Duke University</li>
