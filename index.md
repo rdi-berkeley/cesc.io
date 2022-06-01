@@ -56,7 +56,9 @@ layout: home
         <li>Tim Roughgarden, Columbia University</li>
         <li>Arnab Roy, Meta Platform</li>
         <li>Clara Shikhelman, Chaincode Labs</li>
+        <li>Glen Weyl, Microsoft Research</li>
         <li>Yupeng Zhang, Texas A&M University</li>
+        <li>Mahdi Zamani, Visa Research</li>
         <li>Fan Zhang, Duke University</li>
     </ul>
 </div>
