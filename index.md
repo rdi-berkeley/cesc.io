@@ -51,10 +51,12 @@ layout: home
         <li>Dahlia Malkhi, ChainLink Labs</li>
         <li>Patrick McCorry, Infura</li>
         <li>Andrew Miller, UIUC</li>
+        <li>Pedro Moreno-Sanchez, IMDEA</li>
         <li>Christine Parlour, UC Berkeley</li>
         <li>Ling Ren, UIUC</li>
+        <li>Dan Robinson, Paradigm</li>
         <li>Tim Roughgarden, Columbia University</li>
-        <li>Arnab Roy, Meta Platform</li>
+        <li>Arnab Roy, Meta</li>
         <li>Clara Shikhelman, Chaincode Labs</li>
         <li>Glen Weyl, Microsoft Research</li>
         <li>Yupeng Zhang, Texas A&M University</li>
