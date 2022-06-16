@@ -416,3 +416,92 @@ h2, h3 {
     margin-bottom: 35px;
   } */
 }
+
+#joinBtn {
+  position: sticky;
+  position: -webkit-sticky;
+  width: 140px;
+  left: 92%;
+  bottom: 10px;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+}
+
+#mailList {
+  width: 60px;
+  height: 60px;
+  opacity: 0.8;
+}
+
+#mailList:hover + #toolTip {
+  visibility: visible;
+}
+
+#toolTip {
+  position: relative;
+  visibility: hidden;
+  display: block;
+  top: 5px;
+  background-color: #7bc5e565;
+  color: black;
+  border-radius: 6px;
+  padding: 2px;
+  z-index: 1;
+}
+
+#modal {
+  width: 100%;
+  height: 100%;
+  position: fixed;
+  top: 0;
+  left: 0;
+  align-items: center;
+  justify-content: center;
+  background-color: rgb(162, 162, 162);
+  opacity: 0.6;
+}
+
+#subscribe {
+  position: fixed;
+  top: 5%;
+  left: 50%;
+  max-height: 90%;
+  margin-left: -300px; 
+  color:#003262;
+  overflow: scroll;
+}
+
+#mc-embedded-subscribe {
+  background-color: #d88200 !important;
+}
+
+#mc-embedded-subscribe:hover {
+  background-color:#003262 !important;
+}
+
+#formclose {
+  position: relative;
+  background-color: white;
+  color: grey;
+  border: none;
+  width: 30px;
+  height: 30px;
+  top: 0;
+  left: 100%;
+  margin-left: -20px;
+}
+
+#formclose:hover {
+  color: #003262;
+}
+
+.event-a {
+  color: #003262;
+  text-decoration: none!important;
+}
+
+.event-a:hover {
+  color: #003262;
+  text-decoration: underline!important;
+}
