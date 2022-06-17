@@ -23,7 +23,7 @@ layout: home
             <p style="margin: 0; color: #CB9445;">Xcelerator Demo Day</p>
             <p style="margin: 0; color: #CB9445;">GameFi Day</p>
             <p style="margin: 0; color: #CB9445;">Career Fair</p>
-            <p style="margin: 0; color: #CB9445;">SF Blockchain Week</p>
+            <a style="margin: 0; color: #CB9445;" href="https://sfblockchainweek.io">SF Blockchain Week</a>
         </div>
     </div>
     <h1 style="font-weight: 500; color: #CB9445; margin-top: 0;">Location</h1>
