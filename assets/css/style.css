@@ -420,7 +420,7 @@ h2, h3 {
 #joinBtn {
   position: sticky;
   position: -webkit-sticky;
-  width: 140px;
+  width: 180px;
   left: 92%;
   bottom: 10px;
   text-align: center;
