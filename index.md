@@ -16,7 +16,7 @@ layout: home
         </div>
         <div>
             <p style="margin: 0; font-weight: 700;">Conference:</p>
-            <p style="margin: 0; color: #CB9445;">Oct 31 - Nov 2, 2022</p>
+            <p style="margin: 0; color: #CB9445;">Oct 31 - Nov 1, 2022</p>
         </div>
         <div>
             <p style="margin: 0; font-weight: 700;">Other affiliated events:</p>
@@ -24,6 +24,18 @@ layout: home
             <p style="margin: 0; color: #CB9445;">GameFi Day</p>
             <p style="margin: 0; color: #CB9445;">Career Fair</p>
             <a style="margin: 0; color: #CB9445;" href="https://sfblockchainweek.io">SF Blockchain Week</a>
+        </div>
+    </div>
+    <div style="display: flex; justify-content: space-between; width: 100%;">
+        <div style="flex: 1; align-content: center; justify-content: center; display: flex; text-decoration: none; padding: 5px; margin-bottom: 2em; margin-top: 1em; ">
+            <button class="our-button" id="communityBtn" style="background-color: #CB9445; font-weight : bold; color: white;">
+                Sign up to stay informed for further announcements
+            </button>
+        </div>
+        <div style="flex: 1; align-content: center; justify-content: center; display: flex; text-decoration: none; padding: 5px; margin-bottom: 2em; margin-top: 1em; ">
+            <button class="our-button" onclick="location.href='https://forms.gle/75YzVQZEKjoR6aJv9'" type="button" style="background-color: #CB9445; font-weight : bold; color: white;">
+                Apply for Student Travel Grants
+            </button>
         </div>
     </div>
     <h1 style="font-weight: 500; color: #CB9445; margin-top: 0;">Location</h1>
@@ -85,7 +97,12 @@ layout: home
 <div style="text-align: left; color: #18233D; width: 100%; margin: auto;">
     <h1 style="font-weight: 500; color: #CB9445;">Paper Submission Instructions</h1>
     <p style="font-weight: 700; color: #CB9445;">Conference Submission Server:</p>
-    <p style="margin-top: 0;">Papers may be submitted <a href="https://cesc22.hotcrp.com">here</a>. Please email <a href="mailto:cesc22chair@gmail.com">cesc22chair@gmail.com</a> with any questions or issues.</p>
+    <p style="margin-top: 0; margin-bottom: 0;">Papers may be submitted <a href="https://cesc22.hotcrp.com">here</a>. Please email <a href="mailto:cesc22chair@gmail.com">cesc22chair@gmail.com</a> with any questions or issues.</p>
+    <div style="flex: 1; align-content: center; justify-content: center; display: flex; text-decoration: none; padding: 5px; margin-bottom: 2em; margin-top: 0.25em; ">
+            <button class="our-button" onclick="location.href='https://cesc22.hotcrp.com'" style="background-color: #CB9445; font-weight : bold; color: white;">
+                Submit your papers here by July 28
+            </button>
+    </div>
     <p style="font-weight: 700; color: #CB9445;">Submission Types:</p>
     <div style="margin-left: 20px;">
         <p style="margin-bottom: 0; font-weight: 700; color: #18233D;">Technical Paper:</p>
