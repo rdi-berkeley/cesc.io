@@ -96,7 +96,7 @@ layout: home
 </div>
 <div style="text-align: left; color: #18233D; width: 100%; margin: auto;">
     <h1 style="font-weight: 500; color: #CB9445;">Paper Submission Instructions</h1>
-    <p style="font-weight: 700; color: #CB9445;">Conference Submission Server:</p>
+    <p style="font-weight: 700; color: #CB9445;">Conference Submission Instructions:</p>
     <p style="margin-top: 0; margin-bottom: 0;">Papers may be submitted <a href="https://cesc22.hotcrp.com">here</a>. Please email <a href="mailto:cesc22chair@gmail.com">cesc22chair@gmail.com</a> with any questions or issues.</p>
     <div style="flex: 1; align-content: center; justify-content: center; display: flex; text-decoration: none; padding: 5px; margin-bottom: 2em; margin-top: 0.25em; ">
             <button class="our-button" onclick="location.href='https://cesc22.hotcrp.com'" style="background-color: #CB9445; font-weight : bold; color: white;">
@@ -106,7 +106,7 @@ layout: home
     <p style="font-weight: 700; color: #CB9445;">Submission Types:</p>
     <div style="margin-left: 20px;">
         <p style="margin-bottom: 0; font-weight: 700; color: #18233D;">Technical Paper:</p>
-        <p style="margin-top: 0;">A detailed technical proposal that describes a novel contribution to the theory or practice of blockchain or Web3. (min 6 pages, reviewers will only read first 10 pages)</p>
+        <p style="margin-top: 0;">A detailed technical proposal that describes a novel contribution to the theory or practice of blockchain or Web3. (min 6 pages, reviewers will only read the first 10 pages)</p>
         <p style="margin-bottom: 0; font-weight: 700; color: #18233D;">Work In Progress:</p>
         <p style="margin-top: 0;">Early-stage innovative ideas or arguable opinions and positions (as a position paper), which could lead to productive community discussions that shed light in future directions. (Please prefix the title with WIP, max 6 pages)</p>
         <p style="margin-bottom: 0; font-weight: 700; color: #18233D;">Systematization of Knowledge:</p>
