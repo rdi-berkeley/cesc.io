@@ -125,7 +125,7 @@ layout: home
     <p style="margin-top: 0;">If you have any conflict of interest with a member of the program committee, please note it in the designated section of the HotCRP submission form.</p>
 </div>
 <div style="text-align: left; color: #18233D; width: 100%; margin: auto;">
-    <h1 style="font-weight: 500; color: #CB9445;">Affiliates and Sponsors</h1>
+    <h1 style="font-weight: 500; color: #CB9445;">Affiliates</h1>
     <div class="sponsor-container">
         <!-- <div style="display: flex; flex-direction: column; align-items: center;"> -->
         <div>
