@@ -115,7 +115,7 @@ layout: home
         <p style="margin-bottom: 0; font-weight: 700; color: #18233D;">Work In Progress:</p>
         <p style="margin-top: 0;">Early-stage innovative ideas or arguable opinions and positions (as a position paper), which could lead to productive community discussions that shed light in future directions. (Please prefix the title with WIP, max 6 pages)</p>
         <p style="margin-bottom: 0; font-weight: 700; color: #18233D;">Systematization of Knowledge:</p>
-        <p style="margin-top: 0;">SoK papers evaluate, systemitize, and contextualize existing knowledge, which provides a high value to our community. (Please prefix the title with SOK, min 6 pages, reviewers will only read first 10 pages)</p>
+        <p style="margin-top: 0;">SoK papers evaluate, systemitize, and contextualize existing knowledge, which provides a high value to our community. (Please prefix the title with SOK, min 6 pages, reviewers will only read the first 10 pages)</p>
     </div>
     <p style="margin-bottom: 0; font-weight: 700; color: #CB9445;">Proceedings and Submission at other Conferences:</p>
     <p style="margin-top: 0;">CESC is not archival and does not have proceedings. It is allowed to submit work which has been published at or concurrently submitted to another conference or a journal.</p>
