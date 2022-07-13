@@ -3,7 +3,8 @@ layout: home
 ---
 
 <div style="text-align: left; color: #18233D;">
-    <p style="margin-top: 40px; font-size: 1.25rem;">The Crypto Economics Security Conference (CESC) aims to bring together researchers and practitioners to showcase and discuss the most recent developments in blockchain and Web3.</p>
+    <p style="margin-top: 40px; font-size: 1.17rem;">The Crypto Economics Security Conference (CESC) aims to bring together researchers and practitioners to showcase and discuss the most recent developments in blockchain and Web3.</p>
+    <p style="font-size: 1rem;">CESC is hosted by <a href="https://rdi.berkeley.edu/">Berkeley RDI</a>, a multi-disciplinary campus-wide center, focusing on advancing the science, technology and education of web3, decentralization and empowering of a responsible digital economy.</p>
     <h1 style="font-weight: 500; color: #CB9445;">Schedule</h1>
     <div class="schedule-container">
         <div>
