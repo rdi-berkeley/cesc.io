@@ -5,11 +5,16 @@ layout: home
 <div style="text-align: left; color: #18233D;">
     <p style="margin-top: 40px; font-size: 1.17rem;">The Crypto Economics Security Conference (CESC) aims to bring together researchers and practitioners to showcase and discuss the most recent developments in blockchain and Web3.</p>
     <p style="font-size: 1rem;">CESC is hosted by <a href="https://rdi.berkeley.edu/">Berkeley RDI</a>, a multi-disciplinary campus-wide center, focusing on advancing the science, technology and education of web3, decentralization and empowering of a responsible digital economy.</p>
+    <div style="width: 100%; align-content: center; justify-content: center; display: flex; text-decoration: none; padding: 5px; margin-bottom: 0; margin-top: 1em; ">
+        <button class="our-button" onclick="location.href='https://berkeley-rdi-crypto-economics-security-conference-cesc-2022.eventbrite.com'" type="button" style="background-color: #CB9445; font-weight : bold; color: white;">
+            Registration is now open
+        </button>
+    </div>
     <h1 style="font-weight: 500; color: #CB9445;">Schedule</h1>
     <div class="schedule-container">
         <div>
             <p style="margin: 0; font-weight: 700;">Submission deadline:</p>
-            <p style="margin: 0; color: #CB9445;">August 7, 2022</p>
+            <p style="margin: 0; color: #CB9445;">July 28, 2022</p>
         </div>
         <div>
             <p style="margin: 0; font-weight: 700;">Author notification:</p>
@@ -27,22 +32,22 @@ layout: home
             <a style="margin: 0; color: #CB9445;" href="https://sfblockchainweek.io">SF Blockchain Week</a>
         </div>
     </div>
-    <div style="width: 100%; align-content: center; justify-content: center; display: flex; text-decoration: none; padding: 5px; margin-bottom: 0; margin-top: 1em; ">
-        <button class="our-button" onclick="location.href='https://berkeley-rdi-crypto-economics-security-conference-cesc-2022.eventbrite.com'" type="button" style="background-color: #CB9445; font-weight : bold; color: white;">
-            Registration is now open
-        </button>
-    </div>
     <div style="display: flex; justify-content: space-between; width: 100%; margin-top: 0;">
-        <div style="flex: 1; align-content: center; justify-content: center; display: flex; text-decoration: none; padding: 5px; margin-bottom: 2em; margin-top: 0; ">
-            <button class="our-button" id="communityBtn" style="background-color: #CB9445; font-weight : bold; color: white;">
-                Sign up to stay informed for further announcements
+        <div style="flex: 1; align-content: center; justify-content: center; display: flex; text-decoration: none; padding: 5px; margin-top: 0; ">
+            <button class="our-button" onclick="location.href='https://forms.gle/aHe217HEMLQ3DmH46'" type="button" style="background-color: #CB9445; font-weight : bold; color: white;">
+                Apply to Recruit at our Web3 Career Fair
             </button>
         </div>
-        <div style="flex: 1; align-content: center; justify-content: center; display: flex; text-decoration: none; padding: 5px; margin-bottom: 2em; margin-top: 0; ">
+        <div style="flex: 1; align-content: center; justify-content: center; display: flex; text-decoration: none; padding: 5px; margin-top: 0; ">
             <button class="our-button" onclick="location.href='https://forms.gle/75YzVQZEKjoR6aJv9'" type="button" style="background-color: #CB9445; font-weight : bold; color: white;">
                 Apply for Student Travel Grants
             </button>
         </div>
+    </div>
+    <div style="width: 100%; align-content: center; justify-content: center; display: flex; text-decoration: none; padding: 5px; margin-bottom: 2em; ">
+        <button class="our-button" id="communityBtn" style="background-color: #CB9445; font-weight : bold; color: white;">
+                Sign up to stay informed for further announcements
+            </button>
     </div>
     <h1 style="font-weight: 500; color: #CB9445; margin-top: 0;">Location</h1>
     <p style="font-weight: 700;">UC Berkeley <span style="font-weight: 500;">Campus</span></p>
@@ -71,7 +76,6 @@ layout: home
         <li>Andrew Miller, UIUC</li>
         <li>Pedro Moreno-Sanchez, IMDEA</li>
         <li>Christine Parlour, UC Berkeley</li>
-        <li>Kaihua Qin, Imperial College London</li>
         <li>Ling Ren, UIUC</li>
         <li>Dan Robinson, Paradigm</li>
         <li>Tim Roughgarden, Columbia University</li>
@@ -82,8 +86,6 @@ layout: home
         <li>Yupeng Zhang, Texas A&M University</li>
         <li>Mahdi Zamani, Visa Research</li>
         <li>Fan Zhang, Duke University</li>
-        <li>Jiaheng Zhang, UC Berkeley</li>
-        <li>Liyi Zhou, Imperial College London</li>
     </ul>
 </div>
 <div style="text-align: left; color: #18233D; width: 100%; margin: auto;">
@@ -109,7 +111,7 @@ layout: home
     <p style="margin-top: 0; margin-bottom: 0;">Papers may be submitted <a href="https://cesc22.hotcrp.com">here</a>. Please email <a href="mailto:cesc22chair@gmail.com">cesc22chair@gmail.com</a> with any questions or issues.</p>
     <div style="flex: 1; align-content: center; justify-content: center; display: flex; text-decoration: none; padding: 5px; margin-bottom: 2em; margin-top: 0.25em; ">
             <button class="our-button" onclick="location.href='https://cesc22.hotcrp.com'" style="background-color: #CB9445; font-weight : bold; color: white;">
-                Submit your papers here by August 7
+                Submit your papers here by July 28
             </button>
     </div>
     <p style="font-weight: 700; color: #CB9445;">Submission Types:</p>
