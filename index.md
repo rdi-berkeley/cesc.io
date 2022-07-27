@@ -76,6 +76,7 @@ layout: home
         <li>Andrew Miller, UIUC</li>
         <li>Pedro Moreno-Sanchez, IMDEA</li>
         <li>Christine Parlour, UC Berkeley</li>
+        <li>Kaihua Qin, Imperial College London</li>
         <li>Ling Ren, UIUC</li>
         <li>Dan Robinson, Paradigm</li>
         <li>Tim Roughgarden, Columbia University</li>
@@ -86,6 +87,8 @@ layout: home
         <li>Yupeng Zhang, Texas A&M University</li>
         <li>Mahdi Zamani, Visa Research</li>
         <li>Fan Zhang, Duke University</li>
+        <li>Jiaheng Zhang, UC Berkeley</li>q
+        <li>Liyi Zhou, Imperial College London</li>
     </ul>
 </div>
 <div style="text-align: left; color: #18233D; width: 100%; margin: auto;">
