@@ -87,7 +87,7 @@ layout: home
         <li>Yupeng Zhang, Texas A&M University</li>
         <li>Mahdi Zamani, Visa Research</li>
         <li>Fan Zhang, Duke University</li>
-        <li>Jiaheng Zhang, UC Berkeley</li>q
+        <li>Jiaheng Zhang, UC Berkeley</li>
         <li>Liyi Zhou, Imperial College London</li>
     </ul>
 </div>
