@@ -14,7 +14,7 @@ layout: home
     <div class="schedule-container">
         <div>
             <p style="margin: 0; font-weight: 700;">Submission deadline:</p>
-            <p style="margin: 0; color: #CB9445;">July 28, 2022</p>
+            <p style="margin: 0; color: #CB9445;">Aug 7, 2022</p>
         </div>
         <div>
             <p style="margin: 0; font-weight: 700;">Author notification:</p>
@@ -111,7 +111,7 @@ layout: home
     <p style="margin-top: 0; margin-bottom: 0;">Papers may be submitted <a href="https://cesc22.hotcrp.com">here</a>. Please email <a href="mailto:cesc22chair@gmail.com">cesc22chair@gmail.com</a> with any questions or issues.</p>
     <div style="flex: 1; align-content: center; justify-content: center; display: flex; text-decoration: none; padding: 5px; margin-bottom: 2em; margin-top: 0.25em; ">
             <button class="our-button" onclick="location.href='https://cesc22.hotcrp.com'" style="background-color: #CB9445; font-weight : bold; color: white;">
-                Submit your papers here by July 28
+                Submit your papers here by Aug 7
             </button>
     </div>
     <p style="font-weight: 700; color: #CB9445;">Submission Types:</p>
