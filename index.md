@@ -7,7 +7,7 @@ layout: home
     <p style="font-size: 1rem;">CESC is hosted by <a href="https://rdi.berkeley.edu/">Berkeley RDI</a>, a multi-disciplinary campus-wide center, focusing on advancing the science, technology and education of web3, decentralization and empowering of a responsible digital economy.</p>
     <div style="width: 100%; align-content: center; justify-content: center; display: flex; text-decoration: none; padding: 5px; margin-bottom: 0; margin-top: 1em; ">
         <button class="our-button" onclick="location.href='https://berkeley-rdi-crypto-economics-security-conference-cesc-2022.eventbrite.com'" type="button" style="background-color: #CB9445; font-weight : bold; color: white;">
-            Registration is now open
+            Registration is now open - attend in-person or online
         </button>
     </div>
     <h1 style="font-weight: 500; color: #CB9445;">Schedule</h1>
@@ -26,9 +26,9 @@ layout: home
         </div>
         <div>
             <p style="margin: 0; font-weight: 700;">Other affiliated events:</p>
-            <p style="margin: 0; color: #CB9445;">Xcelerator Demo Day</p>
-            <p style="margin: 0; color: #CB9445;">GameFi Day</p>
-            <p style="margin: 0; color: #CB9445;">Career Fair</p>
+            <p style="margin: 0; color: #CB9445;">Xcelerator Demo Day on Nov 1</p>
+            <p style="margin: 0; color: #CB9445;" href="https://sfblockchainweek.io">GAM3R Summit</p>
+            <p style="margin: 0; color: #CB9445;">Career Fair on Oct 31</p>
             <a style="margin: 0; color: #CB9445;" href="https://sfblockchainweek.io">SF Blockchain Week</a>
         </div>
     </div>
