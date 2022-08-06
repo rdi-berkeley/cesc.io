@@ -27,7 +27,7 @@ layout: home
         <div>
             <p style="margin: 0; font-weight: 700;">Other affiliated events:</p>
             <p style="margin: 0; color: #CB9445;">Xcelerator Demo Day on Nov 1</p>
-            <p style="margin: 0; color: #CB9445;" href="https://sfblockchainweek.io">GAM3R Summit</p>
+            <a style="margin: 0; color: #CB9445;" href="https://sfblockchainweek.io">GAM3R Summit</a>
             <p style="margin: 0; color: #CB9445;">Career Fair on Oct 31</p>
             <a style="margin: 0; color: #CB9445;" href="https://sfblockchainweek.io">SF Blockchain Week</a>
         </div>
