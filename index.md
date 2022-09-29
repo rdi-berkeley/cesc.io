@@ -25,23 +25,21 @@ layout: home
     <h1 style="font-weight: 500; color: #CB9445;">Schedule</h1>
     <div class="schedule-container">
         <div>
-            <p style="margin: 0; font-weight: 700;">Submission deadline:</p>
-            <p style="margin: 0; color: #CB9445;">Aug 7, 2022</p>
-        </div>
-        <div>
-            <p style="margin: 0; font-weight: 700;">Author notification:</p>
-            <p style="margin: 0; color: #CB9445;">September 1, 2022</p>
-        </div>
-        <div>
             <p style="margin: 0; font-weight: 700;">Conference:</p>
             <p style="margin: 0; color: #CB9445;">Oct 31 - Nov 1, 2022</p>
+            <p style="margin-top: 10; font-weight: 700;"></p>
+             <p style="margin: 0; font-weight: 700;">Other affiliated events:</p>
+            <p style="margin: 0; color: #CB9445;">Xcelerator Demo Day on Nov 1</p>
+                      <a style="margin: 0; color: #CB9445;" href="https://sfblockchainweek.io">GAM3R Summit</a>
+                      <p style="margin: 0; color: #CB9445;">Career Fair on Oct 31</p>
+            <a style="margin: 0; color: #CB9445;" href="https://sfblockchainweek.io">SF Blockchain Week</a>
+        </div>
+         <div>
+           
         </div>
         <div>
-            <p style="margin: 0; font-weight: 700;">Other affiliated events:</p>
-            <p style="margin: 0; color: #CB9445;">Xcelerator Demo Day on Nov 1</p>
-            <a style="margin: 0; color: #CB9445;" href="https://sfblockchainweek.io">GAM3R Summit</a>
-            <p style="margin: 0; color: #CB9445;">Career Fair on Oct 31</p>
-            <a style="margin: 0; color: #CB9445;" href="https://sfblockchainweek.io">SF Blockchain Week</a>
+  
+            
         </div>
     </div>
     <div style="display: flex; justify-content: space-between; width: 100%; margin-top: 0;">
@@ -121,29 +119,9 @@ layout: home
     <p style="margin-top: 0;">The above is by no means an exhaustive list of topics we accept. Other topics in blockchain and Web3 including interdisciplinary studies, such as societal impact on decentralization technologies, decentralized intelligence, responsible innovation, etc., are also encouraged.</p>
 </div>
 <div style="text-align: left; color: #18233D; width: 100%; margin: auto;">
-    <h1 style="font-weight: 500; color: #CB9445;">Paper Submission Instructions</h1>
-    <p style="font-weight: 700; color: #CB9445;">Conference Submission Instructions:</p>
-    <p style="margin-top: 0; margin-bottom: 0;">Papers may be submitted <a href="https://cesc22.hotcrp.com">here</a>. Please email <a href="mailto:cesc22chair@gmail.com">cesc22chair@gmail.com</a> with any questions or issues.</p>
-    <div style="flex: 1; align-content: center; justify-content: center; display: flex; text-decoration: none; padding: 5px; margin-bottom: 2em; margin-top: 0.25em; ">
-            <button class="our-button" onclick="location.href='https://cesc22.hotcrp.com'" style="background-color: #CB9445; font-weight : bold; color: white;">
-                Submit your papers here by Aug 7
-            </button>
-    </div>
-    <p style="font-weight: 700; color: #CB9445;">Submission Types:</p>
-    <div style="margin-left: 20px;">
-        <p style="margin-bottom: 0; font-weight: 700; color: #18233D;">Technical Paper:</p>
-        <p style="margin-top: 0;">A detailed technical proposal that describes a novel contribution to the theory or practice of blockchain or Web3. (min 6 pages, reviewers will only read the first 10 pages)</p>
-        <p style="margin-bottom: 0; font-weight: 700; color: #18233D;">Work In Progress:</p>
-        <p style="margin-top: 0;">Early-stage innovative ideas or arguable opinions and positions (as a position paper), which could lead to productive community discussions that shed light in future directions. (Please prefix the title with WIP, max 6 pages)</p>
-        <p style="margin-bottom: 0; font-weight: 700; color: #18233D;">Systematization of Knowledge:</p>
-        <p style="margin-top: 0;">SoK papers evaluate, systemitize, and contextualize existing knowledge, which provides a high value to our community. (Please prefix the title with SOK, min 6 pages, reviewers will only read the first 10 pages)</p>
-    </div>
+    <h1 style="font-weight: 500; color: #CB9445;">Other Information</h1>
     <p style="margin-bottom: 0; font-weight: 700; color: #CB9445;">Proceedings and Submission at other Conferences:</p>
     <p style="margin-top: 0;">CESC is not archival and does not have proceedings. It is allowed to submit work which has been published at or concurrently submitted to another conference or a journal.</p>
-    <p style="margin-bottom: 0; font-weight: 700; color: #CB9445;">Anonymous Submission (Optional):</p>
-    <p style="margin-top: 0;">Papers can <span style="font-weight: 700;">optionally</span> be anonymized. If the authors choose to be anonymized, then no author names or affiliations should appear on the title page, and the submission should not disclose the authors' identities in the document.</p>
-    <p style="margin-bottom: 0; font-weight: 700; color: #CB9445;">Conflict of Interest:</p>
-    <p style="margin-top: 0;">If you have any conflict of interest with a member of the program committee, please note it in the designated section of the HotCRP submission form.</p>
 </div>
 <div style="text-align: left; color: #18233D; width: 100%; margin: auto;">
     <h1 style="font-weight: 500; color: #CB9445;">Affiliates</h1>
