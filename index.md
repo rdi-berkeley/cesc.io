@@ -103,7 +103,7 @@ layout: home
   </tr>
   <tr>
     <td class="tg-f8tv"><span style="font-weight:400;font-style:italic">9:30am</span></td>
-    <td class="tg-0pky"><span style="font-weight:bold;font-style:normal;text-decoration:none">Ratel: MPC-Extensions for Smart contracts</span><br><span style="font-weight:400">Yunqi Li </span><span style="font-style:italic">(UIUC); Kyle Soska (UIUC); Sylvain Bellemare (IC3); Mikerah Quintyne-Collins (Hashcloak); Zhen Huang (SJTU); Lun Wang (Berkeley); Amit Agarwal (UIUC); Dawn Song (Berkeley); Andrew Miller (University of Illinois at Urbana-Champaign)</span></td>
+    <td class="tg-0pky"><span style="font-weight:bold;font-style:normal;text-decoration:none">Ratel: MPC-Extensions for Smart contracts</span><br><span style="font-weight:400">Yunqi Li </span><span style="font-style:italic">(UIUC); Kyle Soska (UIUC); Sylvain Bellemare (IC3); Mikerah Quintyne-Collins (Hashcloak); Zhen Huang (SJTU); Lun Wang (UC Berkeley); Amit Agarwal (UIUC); Dawn Song (UC Berkeley); Andrew Miller (University of Illinois at Urbana-Champaign)</span></td>
   </tr>
   <tr>
     <td class="tg-f8tv"><span style="font-weight:400;font-style:italic">9:40am</span></td>
@@ -111,7 +111,7 @@ layout: home
   </tr>
   <tr>
     <td class="tg-f8tv"><span style="font-weight:400;font-style:italic">9:55am</span></td>
-    <td class="tg-0pky"><span style="font-weight:bold;font-style:normal;text-decoration:none">zkBridge: Trustless Cross-chain Bridges Made Practical</span><br><span style="font-weight:400;font-style:italic">Tiancheng Xie </span><span style="font-style:italic">(UC Berkeley); Jiaheng Zhang (UC Berkeley); Zerui Cheng (Tsinghua University); Fan Zhang (Duke); Yupeng Zhang (Texas A&amp;M University); Yongzheng Jia (Tsinghua University); Dawn Song (UC Berkeley)</span></td>
+    <td class="tg-0pky"><span style="font-weight:bold;font-style:normal;text-decoration:none">zkBridge: Trustless Cross-chain Bridges Made Practical</span><br><span style="font-weight:400;font-style:italic">Tiancheng Xie </span><span style="font-style:italic">(UC Berkeley); Jiaheng Zhang (UC Berkeley); Zerui Cheng (Tsinghua University); Fan Zhang (Duke); Yupeng Zhang (Texas A&amp;M University); Yongzheng Jia (Tsinghua University); Dan Boneh (Stanford University); Dawn Song (UC Berkeley)</span></td>
   </tr>
   <tr>
     <td class="tg-f8tv"><span style="font-style:italic">10:10am</span></td>
@@ -126,11 +126,11 @@ layout: home
   </tr>
   <tr>
     <td class="tg-0pky"><span style="font-weight:400;font-style:italic;text-decoration:none">10:40am</span></td>
-    <td class="tg-0pky"><span style="font-weight:bold;font-style:normal;text-decoration:none">Invited talk: History of ZK</span><br><span style="font-weight:400;font-style:italic;text-decoration:none">Shafi</span></td>
+    <td class="tg-0pky"><span style="font-weight:bold;font-style:normal;text-decoration:none">Invited talk: History of ZK</span><br><span style="font-weight:400;font-style:italic">Shafi Goldwasser</span><span style="font-weight:400"> </span><span style="font-weight:400;font-style:italic">(</span><span style="font-style:italic">UC Berkeley)</span></td>
   </tr>
   <tr>
     <td class="tg-0pky"><span style="font-weight:400;font-style:italic;text-decoration:none">11:05am</span></td>
-    <td class="tg-0pky"><span style="font-weight:700;font-style:normal">Invited talk: </span>Recent development for ZKP<br><span style="font-weight:400;font-style:italic;text-decoration:none">Dan Boneh</span></td>
+    <td class="tg-0pky"><span style="font-weight:700;font-style:normal">Invited talk: </span>Recent development for ZKP<br><span style="font-weight:400;font-style:italic;text-decoration:none">Dan Boneh </span><span style="font-style:italic">(Stanford University)</span></td>
   </tr>
   <tr>
     <td class="tg-0pky"><span style="font-weight:400;font-style:italic;text-decoration:none">11:20am</span></td>
@@ -188,11 +188,11 @@ layout: home
   </tr>
   <tr>
     <td class="tg-0pky"><span style="font-style:italic">3:10pm</span></td>
-    <td class="tg-0pky"><span style="font-weight:700;font-style:normal;text-decoration:none">Spotlight</span><br><br><span style="font-weight:bold;font-style:normal;text-decoration:none">Are decentralized finance really decentralized? </span><span style="font-weight:bold">A social network analysis of the Aave protocol on the Ethereum blockchain</span><br><span style="font-weight:400;font-style:normal">Luyao Zhang (Duke Kunshan University); Ziqiao Ao (Duke Kunshan University); Gergely Horvath (Duke Kunshan University)</span><br><br><span style="font-weight:bold">Credible Decentralized Exchange Design</span><br><span style="font-weight:400;font-style:normal">Matheus Venturyne Xavier Ferreira (Harvard University); David C. Parkes (Harvard University)</span><br><br><span style="font-weight:bold">Governance of Decentralized Autonomous Organization in Decentralized Finance</span><br><span style="font-weight:400;font-style:italic">Agnes Yang (Carlson School of Management, University of Minnesota); Jason Chan (Carlson School of Management, University of Minnesota)</span><br><br><span style="font-weight:bold;font-style:normal;text-decoration:none">WIP: Collaborative Design of Contribution Tracking Systems for Decentralized Organizations</span><br><span style="font-weight:400;font-style:italic">Nicholas Vincent (Northwestern University); Christine Vandevoorde (Govrn)</span></td>
+    <td class="tg-0pky"><span style="font-weight:700;font-style:normal;text-decoration:none">Spotlight</span><br><br><span style="font-weight:bold;font-style:normal;text-decoration:none">Are decentralized finance really decentralized? </span><span style="font-weight:bold">A social network analysis of the Aave protocol on the Ethereum blockchain</span><br><span style="font-weight:400;font-style:italic">Luyao Zhang (Duke Kunshan University); Ziqiao Ao (Duke Kunshan University); Gergely Horvath (Duke Kunshan University)</span><br><br><span style="font-weight:bold">Credible Decentralized Exchange Design</span><br><span style="font-weight:400;font-style:normal">Matheus Venturyne Xavier Ferreira (Harvard University); David C. Parkes (Harvard University)</span><br><br><span style="font-weight:bold">Governance of Decentralized Autonomous Organization in Decentralized Finance</span><br><span style="font-weight:400;font-style:italic">Agnes Yang (Carlson School of Management, University of Minnesota); Jason Chan (Carlson School of Management, University of Minnesota)</span><br><br><span style="font-weight:bold;font-style:normal;text-decoration:none">WIP: Collaborative Design of Contribution Tracking Systems for Decentralized Organizations</span><br><span style="font-weight:400;font-style:italic">Nicholas Vincent (Northwestern University); Christine Vandevoorde (Govrn)</span></td>
   </tr>
   <tr>
     <td class="tg-0pky"><span style="font-style:italic">3:20pm</span></td>
-    <td class="tg-0pky"><span style="font-weight:700;font-style:normal">Invited talk: </span>DAO<br><span style="font-weight:400;font-style:italic;text-decoration:none">David Kerr</span></td>
+    <td class="tg-0pky"><span style="font-weight:700;font-style:normal">Invited talk: </span><span style="font-weight:bold">DAO</span><br><span style="font-weight:400;font-style:italic;text-decoration:none">David Kerr (</span><span style="font-weight:400;font-style:italic">DAO Research Collective</span><span style="font-weight:400;font-style:italic;text-decoration:none">)</span></td>
   </tr>
   <tr>
     <td class="tg-y698"><span style="font-weight:400;font-style:italic;text-decoration:none">3:40pm</span></td>
@@ -233,7 +233,7 @@ layout: home
     <td class="tg-y698"><span style="font-weight:bold">Break</span></td>
   </tr>
   <tr>
-    <td class="tg-d5b1" colspan="2"><span style="font-weight:700;font-style:normal;text-decoration:none">Session 6: Privacy/DID/Data sovereignty</span></td>
+    <td class="tg-d5b1" colspan="2"><span style="font-weight:700;font-style:normal;text-decoration:none">Session 6: </span><span style="font-weight:700">Privacy/Decentralized Identity/Data sovereignty</span></td>
   </tr>
   <tr>
     <td class="tg-0pky"><span style="font-weight:400;font-style:italic;text-decoration:none">10:25am</span></td>
@@ -257,7 +257,7 @@ layout: home
   </tr>
   <tr>
     <td class="tg-0pky"><span style="font-weight:400;font-style:italic;text-decoration:none">11:20am</span></td>
-    <td class="tg-0pky"><span style="font-weight:700;font-style:normal">Invited talk</span><br><span style="font-weight:400;font-style:italic;text-decoration:none">Glen Weyl</span></td>
+    <td class="tg-0pky"><span style="font-weight:700;font-style:normal">Invited talk</span><br><span style="font-weight:400;font-style:italic;text-decoration:none">Glen Weyl (</span><span style="font-weight:400;font-style:italic">Microsoft</span><span style="font-weight:400;font-style:italic;text-decoration:none">)</span></td>
   </tr>
   <tr>
     <td class="tg-y698"><span style="font-weight:400;font-style:normal;text-decoration:none">11:40am</span></td>
@@ -291,7 +291,7 @@ layout: home
   </tr>
   <tr>
     <td class="tg-0pky"><span style="font-weight:400;font-style:italic;text-decoration:none">2:05pm</span></td>
-    <td class="tg-0pky"><span style="font-weight:700;font-style:normal">Invited talk</span><br><span style="font-weight:400;font-style:italic;text-decoration:none">Tim Roughgarden</span></td>
+    <td class="tg-0pky"><span style="font-weight:700;font-style:normal">Invited talk</span><br><span style="font-weight:400;font-style:italic;text-decoration:none">Tim Roughgarden </span><span style="font-weight:400;font-style:italic">(Columbia University and a16z)</span></td>
   </tr>
   <tr>
     <td class="tg-0pky"><span style="font-weight:400;font-style:normal;text-decoration:none">2:25pm</span></td>
