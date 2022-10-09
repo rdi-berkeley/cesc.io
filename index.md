@@ -71,6 +71,7 @@ layout: home
   font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg th{background-color:#f38630;border-color:#aaa;border-style:solid;border-width:1px;color:#fff;
   font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-d5b1{border-color:inherit;color:#cb9445;text-align:left;vertical-align:top}
 .tg .tg-h0w4{background-color:#cb9445;border-color:inherit;font-size:18px;text-align:left;vertical-align:top}
 .tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
 .tg .tg-f8tv{border-color:inherit;font-style:italic;text-align:left;vertical-align:top}
@@ -78,11 +79,7 @@ layout: home
 .tg .tg-y698{background-color:#efefef;border-color:inherit;text-align:left;vertical-align:top}
 .tg .tg-fymr{border-color:inherit;font-weight:bold;text-align:left;vertical-align:top}
 </style>
-<table class="tg" style="undefined;table-layout: fixed; width: 1032px">
-<colgroup>
-<col style="width: 88px">
-<col style="width: 944px">
-</colgroup>
+<table class="tg">
 <thead>
   <tr>
     <th class="tg-h0w4" colspan="2"><span style="font-weight:400;font-style:normal;text-decoration:none">Mon Oct 31</span></th>
@@ -94,7 +91,7 @@ layout: home
     <td class="tg-0pky"><span style="font-weight:bold;font-style:normal;text-decoration:none">Opening remarks</span></td>
   </tr>
   <tr>
-    <td class="tg-0pky" colspan="2"><span style="font-weight:bold;font-style:normal;text-decoration:none">Session 1: </span><span style="font-weight:bold">Cryptography</span></td>
+    <td class="tg-d5b1" colspan="2"><span style="font-weight:bold;font-style:normal;text-decoration:none">Session 1: </span><span style="font-weight:bold">Cryptography</span></td>
   </tr>
   <tr>
     <td class="tg-f8tv"><span style="font-weight:400;font-style:italic;text-decoration:none">9:10am</span></td>
@@ -125,15 +122,15 @@ layout: home
     <td class="tg-y698"><span style="font-weight:bold;font-style:normal;text-decoration:none">Break</span></td>
   </tr>
   <tr>
-    <td class="tg-0pky" colspan="2"><span style="font-weight:bold;font-style:normal;text-decoration:none">Session 2: </span><span style="font-weight:bold">Zero Knowledge Proof</span></td>
+    <td class="tg-d5b1" colspan="2"><span style="font-weight:bold;font-style:normal;text-decoration:none">Session 2: </span><span style="font-weight:bold">Zero Knowledge Proof</span></td>
   </tr>
   <tr>
     <td class="tg-0pky"><span style="font-weight:400;font-style:italic;text-decoration:none">10:40am</span></td>
-    <td class="tg-0pky"><span style="font-weight:bold;font-style:normal;text-decoration:none">Keynote: History of ZK</span><br><span style="font-weight:400;font-style:italic;text-decoration:none">Shafi</span></td>
+    <td class="tg-0pky"><span style="font-weight:bold;font-style:normal;text-decoration:none">Invited talk: History of ZK</span><br><span style="font-weight:400;font-style:italic;text-decoration:none">Shafi</span></td>
   </tr>
   <tr>
     <td class="tg-0pky"><span style="font-weight:400;font-style:italic;text-decoration:none">11:05am</span></td>
-    <td class="tg-0pky"><span style="font-weight:bold;font-style:normal;text-decoration:none">Recent development for ZKP</span><br><span style="font-weight:400;font-style:italic;text-decoration:none">Dan Boneh</span></td>
+    <td class="tg-0pky"><span style="font-weight:700;font-style:normal">Invited talk: </span>Recent development for ZKP<br><span style="font-weight:400;font-style:italic;text-decoration:none">Dan Boneh</span></td>
   </tr>
   <tr>
     <td class="tg-0pky"><span style="font-weight:400;font-style:italic;text-decoration:none">11:20am</span></td>
@@ -144,7 +141,7 @@ layout: home
     <td class="tg-y698"><span style="font-weight:bold">Lunch</span></td>
   </tr>
   <tr>
-    <td class="tg-0pky" colspan="2"><span style="font-weight:bold;font-style:normal;text-decoration:none">Session 3: </span><span style="font-weight:bold">Scalability/Consensus</span></td>
+    <td class="tg-d5b1" colspan="2"><span style="font-weight:bold;font-style:normal;text-decoration:none">Session 3: </span><span style="font-weight:bold">Scalability/Consensus</span></td>
   </tr>
   <tr>
     <td class="tg-f8tv">1:00pm</td>
@@ -164,14 +161,14 @@ layout: home
   </tr>
   <tr>
     <td class="tg-f8tv"><span style="font-weight:400;font-style:italic">1:50pm</span></td>
-    <td class="tg-fymr"><span style="font-weight:700;font-style:normal;text-decoration:none">Spotlight</span><br><br><span style="font-weight:bold;font-style:normal;text-decoration:none">Maypoles: Lightning Striking Twice</span><br><span style="font-weight:400;font-style:italic">Clara Shikhelman (Chaincode Labs)</span><br><br><span style="font-weight:bold;font-style:normal;text-decoration:none">Sleepy Channels: Bi-directional Payment Channels without Watchtowers</span><br><span style="font-weight:400;font-style:italic">Lukas Aumayr (TU Wien); Sri Aravinda Krishnan Thyagarajan (Carnegie Mellon University); Giulio Malavolta (Max Planck Institute for Security and Privacy); Pedro Moreno-Sanchez (IMDEA Software Institute); Matteo Maffei (TU Wien)</span><br><br><span style="font-weight:bold;font-style:normal;text-decoration:none">EigenDA: Hyperscaled Data Availability for Blockchains</span><br><span style="font-weight:400;font-style:italic">Bowen Xue (University of Washington); Soubhik Deb (University of Washington); Robert Raynor (University of Washington); Gautham Anant (University of Washington); Sreeram Kannan (University of Washington Seattle)</span><br><br><span style="font-weight:bold;font-style:normal;text-decoration:none">Themis: Fast, Strong Order-Fairness in Byzantine Consensus</span><br><span style="font-weight:400;font-style:italic">Mahimna Kelkar (Cornell Tech); Soubhik Deb (University of Washington Seattle); Sishan Long (Cornell Tech); Ari Juels (Cornell Tech); Sreeram Kannan (University of Washington Seattle)</span></td>
+    <td class="tg-fymr"><span style="font-weight:700;font-style:normal;text-decoration:none">Spotlight</span><br><br><span style="font-weight:bold;font-style:normal;text-decoration:none">EigenDA: Hyperscaled Data Availability for Blockchains</span><br><span style="font-weight:400;font-style:italic">Bowen Xue (University of Washington); Soubhik Deb (University of Washington); Robert Raynor (University of Washington); Gautham Anant (University of Washington); Sreeram Kannan (University of Washington Seattle)</span><br><br><span style="font-weight:bold;font-style:normal;text-decoration:none">Themis: Fast, Strong Order-Fairness in Byzantine Consensus</span><br><span style="font-weight:400;font-style:italic">Mahimna Kelkar (Cornell Tech); Soubhik Deb (University of Washington Seattle); Sishan Long (Cornell Tech); Ari Juels (Cornell Tech); Sreeram Kannan (University of Washington Seattle)</span><br><br><span style="font-weight:bold;font-style:normal;text-decoration:none">Maypoles: Lightning Striking Twice</span><br><span style="font-weight:400;font-style:italic">Clara Shikhelman (Chaincode Labs)</span><br><br><span style="font-weight:bold;font-style:normal;text-decoration:none">Sleepy Channels: Bi-directional Payment Channels without Watchtowers</span><br><span style="font-weight:400;font-style:italic">Lukas Aumayr (TU Wien); Sri Aravinda Krishnan Thyagarajan (Carnegie Mellon University); Giulio Malavolta (Max Planck Institute for Security and Privacy); Pedro Moreno-Sanchez (IMDEA Software Institute); Matteo Maffei (TU Wien)</span></td>
   </tr>
   <tr>
     <td class="tg-y698"><span style="font-style:italic">2:00pm</span></td>
     <td class="tg-y698"><span style="font-weight:bold">Break</span></td>
   </tr>
   <tr>
-    <td class="tg-0pky" colspan="2"><span style="font-weight:bold;font-style:normal;text-decoration:none">Session 4: </span><span style="font-weight:bold">DeFi &amp; DAO</span></td>
+    <td class="tg-d5b1" colspan="2"><span style="font-weight:bold;font-style:normal;text-decoration:none">Session 4: </span><span style="font-weight:bold">DeFi &amp; DAO</span></td>
   </tr>
   <tr>
     <td class="tg-0pky"><span style="font-style:italic">2:15pm</span></td>
@@ -186,30 +183,26 @@ layout: home
     <td class="tg-0pky"><span style="font-weight:bold;font-style:normal;text-decoration:none">Ponyta: Foundations of Side-Contract-Resilient Fair Exchange</span><br><span style="font-weight:400;font-style:italic">Hao Chung </span><span style="font-style:italic">(Carnegie Mellon University); </span><span style="font-weight:400;font-style:italic">Elisaweta Masserova </span><span style="font-style:italic">(Carnegie Mellon University); </span><span style="font-weight:400;font-style:italic">Elaine Shi </span><span style="font-style:italic">(Carnegie Mellon University); </span><span style="font-weight:400;font-style:italic">Sri AravindaKrishnan Thyagarajan </span><span style="font-style:italic">(Carnegie Mellon University)</span></td>
   </tr>
   <tr>
-    <td class="tg-0pky"><span style="font-weight:400;font-style:italic">2:55pm</span></td>
+    <td class="tg-0pky"><span style="font-weight:400;font-style:italic">3:00pm</span></td>
     <td class="tg-0pky"><span style="font-weight:bold;font-style:normal;text-decoration:none">Coexisting Exchange Platforms: Limit Order Books and Automated Market Makers</span><br><span style="font-weight:400;font-style:italic">Jun Aoyagi </span><span style="font-style:italic">(Hong Kong University of Science and Technology); </span><span style="font-weight:400;font-style:italic">Yuki Ito </span><span style="font-style:italic">(University of California, Berkeley)</span></td>
   </tr>
   <tr>
-    <td class="tg-0pky"><span style="font-style:italic">3:05pm</span></td>
+    <td class="tg-0pky"><span style="font-style:italic">3:10pm</span></td>
     <td class="tg-0pky"><span style="font-weight:700;font-style:normal;text-decoration:none">Spotlight</span><br><br><span style="font-weight:bold;font-style:normal;text-decoration:none">Are decentralized finance really decentralized? </span><span style="font-weight:bold">A social network analysis of the Aave protocol on the Ethereum blockchain</span><br><span style="font-weight:400;font-style:normal">Luyao Zhang (Duke Kunshan University); Ziqiao Ao (Duke Kunshan University); Gergely Horvath (Duke Kunshan University)</span><br><br><span style="font-weight:bold">Credible Decentralized Exchange Design</span><br><span style="font-weight:400;font-style:normal">Matheus Venturyne Xavier Ferreira (Harvard University); David C. Parkes (Harvard University)</span><br><br><span style="font-weight:bold">Governance of Decentralized Autonomous Organization in Decentralized Finance</span><br><span style="font-weight:400;font-style:italic">Agnes Yang (Carlson School of Management, University of Minnesota); Jason Chan (Carlson School of Management, University of Minnesota)</span><br><br><span style="font-weight:bold;font-style:normal;text-decoration:none">WIP: Collaborative Design of Contribution Tracking Systems for Decentralized Organizations</span><br><span style="font-weight:400;font-style:italic">Nicholas Vincent (Northwestern University); Christine Vandevoorde (Govrn)</span></td>
   </tr>
   <tr>
-    <td class="tg-0pky"><span style="font-style:italic">3:15pm</span></td>
-    <td class="tg-0pky"><span style="font-weight:700;font-style:normal;text-decoration:none">DAO</span><br><span style="font-weight:400;font-style:italic;text-decoration:none">David Kerr</span></td>
+    <td class="tg-0pky"><span style="font-style:italic">3:20pm</span></td>
+    <td class="tg-0pky"><span style="font-weight:700;font-style:normal">Invited talk: </span>DAO<br><span style="font-weight:400;font-style:italic;text-decoration:none">David Kerr</span></td>
   </tr>
   <tr>
-    <td class="tg-y698"><span style="font-weight:400;font-style:italic;text-decoration:none">3:35pm</span></td>
+    <td class="tg-y698"><span style="font-weight:400;font-style:italic;text-decoration:none">3:40pm</span></td>
     <td class="tg-y698"><span style="font-weight:bold;font-style:normal;text-decoration:none">Reception &amp; poster session</span></td>
-  </tr>
-  <tr>
-    <td class="tg-y698"><span style="font-weight:400;font-style:italic;text-decoration:none">4:30pm</span></td>
-    <td class="tg-y698"><span style="font-weight:bold;font-style:normal;text-decoration:none">Reception &amp; career fair</span></td>
   </tr>
   <tr>
     <td class="tg-h0w4" colspan="2"><span style="font-weight:400;font-style:normal;color:#FFF">Tue Nov 1</span></td>
   </tr>
   <tr>
-    <td class="tg-0pky" colspan="2"><span style="font-weight:bold;text-decoration:none">Session 5: </span><span style="font-weight:bold">Security</span></td>
+    <td class="tg-d5b1" colspan="2"><span style="font-weight:bold;text-decoration:none">Session 5: </span><span style="font-weight:bold">Security</span></td>
   </tr>
   <tr>
     <td class="tg-0pky"><span style="font-style:italic">9:00am</span></td>
@@ -240,7 +233,7 @@ layout: home
     <td class="tg-y698"><span style="font-weight:bold">Break</span></td>
   </tr>
   <tr>
-    <td class="tg-0pky" colspan="2"><span style="font-weight:700;font-style:normal;text-decoration:none">Session 6: Privacy/DID/Data sovereignty</span></td>
+    <td class="tg-d5b1" colspan="2"><span style="font-weight:700;font-style:normal;text-decoration:none">Session 6: Privacy/DID/Data sovereignty</span></td>
   </tr>
   <tr>
     <td class="tg-0pky"><span style="font-weight:400;font-style:italic;text-decoration:none">10:25am</span></td>
@@ -264,14 +257,14 @@ layout: home
   </tr>
   <tr>
     <td class="tg-0pky"><span style="font-weight:400;font-style:italic;text-decoration:none">11:20am</span></td>
-    <td class="tg-0pky"><span style="font-weight:bold;font-style:normal;text-decoration:none">Keynote</span><br><span style="font-weight:400;font-style:italic;text-decoration:none">Glen Weyl</span></td>
+    <td class="tg-0pky"><span style="font-weight:700;font-style:normal">Invited talk</span><br><span style="font-weight:400;font-style:italic;text-decoration:none">Glen Weyl</span></td>
   </tr>
   <tr>
     <td class="tg-y698"><span style="font-weight:400;font-style:normal;text-decoration:none">11:40am</span></td>
     <td class="tg-y698"><span style="font-weight:bold">Lunch</span></td>
   </tr>
   <tr>
-    <td class="tg-0pky" colspan="2"><span style="font-weight:700;font-style:normal;text-decoration:none">Session 7: CryptoEconomics I</span></td>
+    <td class="tg-d5b1" colspan="2"><span style="font-weight:700;font-style:normal;text-decoration:none">Session 7: CryptoEconomics I</span></td>
   </tr>
   <tr>
     <td class="tg-0pky"><span style="font-style:italic">1:00pm</span></td>
@@ -290,31 +283,27 @@ layout: home
     <td class="tg-0pky"><span style="font-weight:bold;font-style:normal;text-decoration:none">He-HTLC: Revisiting Incentives in HTLC</span><br><span style="font-weight:400;font-style:italic">Sarisht Wadhwa </span><span style="font-style:italic">(Duke University); </span><span style="font-weight:400;font-style:italic">Jannis Stoter </span><span style="font-style:italic">(Duke University); </span><span style="font-weight:400;font-style:italic">Fan Zhang </span><span style="font-style:italic">(Duke University); </span><span style="font-weight:400;font-style:italic">Kartik Nayak </span><span style="font-style:italic">(Duke University)</span></td>
   </tr>
   <tr>
-    <td class="tg-y698"><span style="font-style:italic">2:00pm</span></td>
+    <td class="tg-y698"><span style="font-style:italic">1:50pm</span></td>
     <td class="tg-y698"><span style="font-weight:bold">Break</span></td>
   </tr>
   <tr>
-    <td class="tg-0pky" colspan="2"><span style="font-weight:700;font-style:normal;text-decoration:none">Session 8: </span><span style="font-weight:700">CryptoEconomics II</span></td>
+    <td class="tg-d5b1" colspan="2"><span style="font-weight:700;font-style:normal;text-decoration:none">Session 8: </span><span style="font-weight:700">CryptoEconomics II</span></td>
   </tr>
   <tr>
-    <td class="tg-0pky"><span style="font-weight:400;font-style:italic;text-decoration:none">2:15pm</span></td>
-    <td class="tg-0pky"><span style="font-weight:bold">Keynote</span><br><span style="font-weight:400;font-style:italic;text-decoration:none">Tim Roughgarden</span></td>
+    <td class="tg-0pky"><span style="font-weight:400;font-style:italic;text-decoration:none">2:05pm</span></td>
+    <td class="tg-0pky"><span style="font-weight:700;font-style:normal">Invited talk</span><br><span style="font-weight:400;font-style:italic;text-decoration:none">Tim Roughgarden</span></td>
   </tr>
   <tr>
-    <td class="tg-0pky"><span style="font-weight:400;font-style:normal;text-decoration:none">2:35pm</span></td>
-    <td class="tg-0pky"><span style="font-weight:bold;font-style:normal;text-decoration:none">Spotlight</span><br><br><span style="font-weight:bold;font-style:normal;text-decoration:none">SoK: Blockchain Decentralization</span><br><span style="font-weight:400;font-style:italic">Luyao Zhang (Duke Kunshan University); Xinshi Ma (Duke University); Yulin Liu (SciEco CIC)</span><br><br><span style="font-weight:bold;font-style:normal;text-decoration:none">How Resilient is the Bitcoin Protocol?</span><br><span style="font-weight:400;font-style:italic">Louis Bertucci (Institut Louis Bachelier); Charles Bertucci (Ecole Polytechnique); Jean-Michel Lasry (Université Paris-Dauphine); Pierre-Louis Lions (College de France)</span><br><br><span style="font-weight:bold;font-style:normal;text-decoration:none">The Economics of Cryptocurrencies in a General Equilibrium Framework</span><br><span style="font-weight:400;font-style:italic">Enchuan Shao (University of Saskatchewan)</span><br><br><span style="font-weight:bold;font-style:normal;text-decoration:none">On the limiting distribution of shares in Proof-of-Stake</span><br><span style="font-weight:400;font-style:italic">Tim Dong (University of Tennessee)</span><br><br><span style="font-weight:bold;font-style:normal;text-decoration:none">An Economic Model of Consensus on Distributed Ledgers</span><br><span style="font-weight:400;font-style:italic">Hanna Halaburda (New York University); Zhiguo He (University of Chicago); Jiasun Li (George Mason University)</span><br><br><span style="font-weight:bold;font-style:normal;text-decoration:none">Bayesian-Nash-Incentive-Compatible Mechanism for Blockchain Transaction Fee Allocation</span><br><span style="font-weight:400;font-style:italic">Zishuo Zhao (University of Illinois Urbana-Champaign); Xi Chen (New York University); Yuan Zhou (Yau Mathematical Sciences Center, Tsinghua University)</span><br><br><span style="font-weight:bold;font-style:normal;text-decoration:none">The Information Content of Blockchain Fees</span><br><span style="font-weight:400;font-style:italic">Agostino Capponi (Columbia University); Ruizhe Jia (Columbia University); Shihao Yu (Columbia University)</span><br><br><span style="font-weight:bold;font-style:normal;text-decoration:none">Crypto-CAPM: The Role of Speculative and Fundamental Demand in Cryptocurrency Pricing</span><br><span style="font-weight:400;font-style:italic">Mohammadhossein Lashkaripour (Haskayne School of Business, University of Calgary); Motahhareh Moravvej-Hamedani (Haskayne School of Business, University of Calgary)</span><br><br><span style="font-weight:bold;font-style:normal;text-decoration:none">WIP: A Combinatorial Bandit Approach to Optimizing Mining Rewards in a Blockchain Protocol</span><br><span style="font-weight:400;font-style:italic">Arti Vedula (The Ohio State University); Abhishek Gupta (The Ohio State University); Shaileshh Bojja Venkatakrishnan (The Ohio State University)</span><br><br><span style="font-weight:bold;font-style:normal;text-decoration:none">Less is More: Understanding Network Bias in Proof-of-Work Blockchains</span><br><span style="font-weight:400;font-style:italic">Yifan Mao (the Ohio State University); Shaileshh Bojja Venkatakrishnan (the Ohio State University)</span><br><br><span style="font-weight:bold;font-style:normal;text-decoration:none">WIP: Simplified State Storage Rent for EVM Blockchains</span><br><span style="font-weight:400;font-style:italic">Shreemoy Mishra (IOV Labs); Diego Masini (IOV Labs); Sergio Demian Lerner (IOV Labs); Federico Jinich (IOV Labs)</span><br><br><span style="font-weight:bold;font-style:normal;text-decoration:none">Foundations of Transaction Fee Mechanism Design</span><br><span style="font-weight:400;font-style:italic">Hao Chung (Carnegie Mellon University); Elaine Shi (Carnegie Mellon University)</span></td>
+    <td class="tg-0pky"><span style="font-weight:400;font-style:normal;text-decoration:none">2:25pm</span></td>
+    <td class="tg-0pky"><span style="font-weight:bold;font-style:normal;text-decoration:none">Spotlight</span><br><br><span style="font-weight:bold;font-style:normal;text-decoration:none">Bayesian-Nash-Incentive-Compatible Mechanism for Blockchain Transaction Fee Allocation</span><br><span style="font-weight:400;font-style:italic">Zishuo Zhao (University of Illinois Urbana-Champaign); Xi Chen (New York University); Yuan Zhou (Yau Mathematical Sciences Center, Tsinghua University)</span><br><br><span style="font-weight:bold;font-style:normal;text-decoration:none">An Economic Model of Consensus on Distributed Ledgers</span><br><span style="font-weight:400;font-style:italic">Hanna Halaburda (New York University); Zhiguo He (University of Chicago); Jiasun Li (George Mason University)</span><br><br><span style="font-weight:bold;font-style:normal;text-decoration:none">The Information Content of Blockchain Fees</span><br><span style="font-weight:400;font-style:italic">Agostino Capponi (Columbia University); Ruizhe Jia (Columbia University); Shihao Yu (Columbia University)</span><br><br><span style="font-weight:bold;font-style:normal;text-decoration:none">Crypto-CAPM: The Role of Speculative and Fundamental Demand in Cryptocurrency Pricing</span><br><span style="font-weight:400;font-style:italic">Mohammadhossein Lashkaripour (Haskayne School of Business, University of Calgary); Motahhareh Moravvej-Hamedani (Haskayne School of Business, University of Calgary)</span><br><br><span style="font-weight:bold;font-style:normal;text-decoration:none">How Resilient is the Bitcoin Protocol?</span><br><span style="font-weight:400;font-style:italic">Louis Bertucci (Institut Louis Bachelier); Charles Bertucci (Ecole Polytechnique); Jean-Michel Lasry (Université Paris-Dauphine); Pierre-Louis Lions (College de France)</span><br><br><span style="font-weight:bold;font-style:normal;text-decoration:none">SoK: Blockchain Decentralization</span><br><span style="font-weight:400;font-style:italic">Luyao Zhang (Duke Kunshan University); Xinshi Ma (Duke University); Yulin Liu (SciEco CIC)</span><br><br><span style="font-weight:bold;font-style:normal;text-decoration:none">The Economics of Cryptocurrencies in a General Equilibrium Framework</span><br><span style="font-weight:400;font-style:italic">Enchuan Shao (University of Saskatchewan)</span><br><br><span style="font-weight:bold;font-style:normal;text-decoration:none">On the limiting distribution of shares in Proof-of-Stake</span><br><span style="font-weight:400;font-style:italic">Tim Dong (University of Tennessee)</span><br><br><span style="font-weight:bold;font-style:normal;text-decoration:none">WIP: A Combinatorial Bandit Approach to Optimizing Mining Rewards in a Blockchain Protocol</span><br><span style="font-weight:400;font-style:italic">Arti Vedula (The Ohio State University); Abhishek Gupta (The Ohio State University); Shaileshh Bojja Venkatakrishnan (The Ohio State University)</span><br><br><span style="font-weight:bold;font-style:normal;text-decoration:none">Less is More: Understanding Network Bias in Proof-of-Work Blockchains</span><br><span style="font-weight:400;font-style:italic">Yifan Mao (the Ohio State University); Shaileshh Bojja Venkatakrishnan (the Ohio State University)</span><br><br><span style="font-weight:bold;font-style:normal;text-decoration:none">WIP: Simplified State Storage Rent for EVM Blockchains</span><br><span style="font-weight:400;font-style:italic">Shreemoy Mishra (IOV Labs); Diego Masini (IOV Labs); Sergio Demian Lerner (IOV Labs); Federico Jinich (IOV Labs)</span><br><br><span style="font-weight:bold;font-style:normal;text-decoration:none">Foundations of Transaction Fee Mechanism Design</span><br><span style="font-weight:400;font-style:italic">Hao Chung (Carnegie Mellon University); Elaine Shi (Carnegie Mellon University)</span></td>
   </tr>
   <tr>
-    <td class="tg-y698"><span style="font-weight:400;font-style:italic;text-decoration:none">3:00pm</span></td>
+    <td class="tg-y698"><span style="font-weight:400;font-style:italic;text-decoration:none">2:50pm</span></td>
     <td class="tg-y698"><span style="font-weight:700;font-style:normal;text-decoration:none">Lightning Talks</span></td>
   </tr>
   <tr>
-    <td class="tg-y698"><span style="font-weight:400;font-style:italic;text-decoration:none">3:30pm</span></td>
+    <td class="tg-y698"><span style="font-weight:400;font-style:italic;text-decoration:none">3:20pm</span></td>
     <td class="tg-y698"><span style="font-weight:bold;font-style:normal;text-decoration:none">Reception &amp; poster session</span></td>
-  </tr>
-  <tr>
-    <td class="tg-y698"><span style="font-weight:400;font-style:italic;text-decoration:none">5:00pm</span></td>
-    <td class="tg-y698"><span style="font-weight:bold;font-style:normal;text-decoration:none">Xcelerator Demo Day</span></td>
   </tr>
 </tbody>
 </table>
