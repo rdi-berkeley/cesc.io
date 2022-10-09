@@ -257,7 +257,7 @@ layout: home
   </tr>
   <tr>
     <td class="tg-0pky"><span style="font-weight:400;font-style:italic;text-decoration:none">11:20am</span></td>
-    <td class="tg-0pky"><span style="font-weight:700;font-style:normal">Invited talk</span><br><span style="font-weight:400;font-style:italic;text-decoration:none">Glen Weyl (</span><span style="font-weight:400;font-style:italic">Microsoft</span><span style="font-weight:400;font-style:italic;text-decoration:none">)</span></td>
+    <td class="tg-0pky"><span style="font-weight:700;font-style:normal">Invited talk</span><br><span style="font-weight:400;font-style:italic;text-decoration:none">Glen Weyl (</span><span style="font-weight:400;font-style:italic">Microsoft Research</span><span style="font-weight:400;font-style:italic;text-decoration:none">)</span></td>
   </tr>
   <tr>
     <td class="tg-y698"><span style="font-weight:400;font-style:normal;text-decoration:none">11:40am</span></td>
