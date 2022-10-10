@@ -5,12 +5,26 @@ layout: home
 <div style="text-align: left; color: #18233D;">
     <p style="margin-top: 40px; font-size: 1.17rem;">The Crypto Economics Security Conference (CESC) aims to bring together researchers and practitioners to showcase and discuss the most recent developments in blockchain and Web3.</p>
     <p style="font-size: 1rem;">CESC is hosted by <a href="https://rdi.berkeley.edu/">Berkeley RDI</a>, a multi-disciplinary campus-wide center, focusing on advancing the science, technology and education of web3, decentralization and empowering of a responsible digital economy.</p>
-    <div style="width: 100%; align-content: center; justify-content: center; display: flex; text-decoration: none; padding: 5px; margin-bottom: 0; margin-top: 1em; ">
-        <button class="our-button" onclick="location.href='https://berkeley-rdi-crypto-economics-security-conference-cesc-2022.eventbrite.com'" type="button" style="background-color: #CB9445; font-weight : bold; color: white;">
-            Registration is now open - attend in-person or online
-        </button>
+
+    <div class="schedule-container">
+        <div>
+        
+<p style="margin-top: 2px;"> <span style="font-weight: 700; font-size: 17px"> Conference Dates: </span> &nbsp;
+<span style="font-weight: 400; font-size: 16px">Oct 31 - Nov 1, 2022</span> </p>
+            <p style="margin-top: 2;"> <span style="font-weight: 700; font-size: 17px"> Venue: </span> &nbsp;
+<span style="font-weight: 400; font-size: 16px">Pauley Ballroom, Martin Luther King Jr. Building, UC Berkeley</span> </p>
+            <p style="margin-top: 2;"> <span style="font-weight: 700; font-size: 17px"> Accommodations: </span> &nbsp;
+<span style="font-weight: 400; font-size: 16px"><a style="margin: 0; color: #CB9445;" href="https://docs.google.com/spreadsheets/d/1JDHp4xH8RtFHkBAY3WnxB5V737lX-BabE7CK-TuX14s/edit?usp=sharing">Hotel Recommendations </a> </span> </p>
+             <p style="margin-top: 2;"> <span style="font-weight: 700; font-size: 17px"> Virtual Attending: </span> &nbsp;
+<span style="font-weight: 400; font-size: 16px"><a style="margin: 0; color: #CB9445;" href="https://berkeley-rdi-crypto-economics-security-conference-cesc-2022.eventbrite.com">Registration (select attend virtually on order form)</a></span> </p>
+        </div>
     </div>
-     <div style="display: flex; justify-content: space-between; width: 100%; margin-top: 50;">
+    <div style="flex: 1; align-content: center; justify-content: center; display: flex; text-decoration: none; padding: 5px; margin-top: 0; ">
+            <button class="our-button" onclick="location.href='https://www.eventbrite.com/e/crypto-economics-security-conference-cesc-tickets-374418404527'" type="button" style="background-color: #CB9445; font-weight : bold; color: white;">
+                Registration
+            </button>
+        </div>
+    <div style="display: flex; justify-content: space-between; width: 100%; margin-top: 0;">
         <div style="flex: 1; align-content: center; justify-content: center; display: flex; text-decoration: none; padding: 5px; margin-top: 0; ">
             <button class="our-button" onclick="location.href='https://docs.google.com/forms/d/e/1FAIpQLSce_fSywDOFkdC5FK9qAnF-nn5KmoLOeTjqdigJLjESilZLXA/viewform'" type="button" style="background-color: #CB9445; font-weight : bold; color: white;">
                 Apply to Present a Lightning Talk
@@ -18,50 +32,43 @@ layout: home
         </div>
         <div style="flex: 1; align-content: center; justify-content: center; display: flex; text-decoration: none; padding: 5px; margin-top: 0; ">
             <button class="our-button" onclick="location.href='https://rdi.berkeley.edu/zkp-workshop-2022/'" type="button" style="background-color: #CB9445; font-weight : bold; color: white;">
-                Submit your Abstract for ZK Proof Workshop by Oct 10
+                Submit your Abstract for ZK Proof Workshop
             </button>
         </div>
     </div>
-    <h1 style="font-weight: 500; color: #CB9445;">Schedule</h1>
-    <div class="schedule-container">
-        <div>
-            <p style="margin: 0; font-weight: 700;">Conference:</p>
-            <p style="margin: 0; color: #CB9445;">Oct 31 - Nov 1, 2022</p>
-            <p style="margin-top: 10; font-weight: 700;"></p>
-             <p style="margin: 0; font-weight: 700;">Other affiliated events:</p>
-             <a style="margin: 0; color: #CB9445;" href="https://rdi.berkeley.edu/zkp-workshop-2022/">Zero-Knowledge Proof Workshop</a>
-            <p style="margin: 0; color: #CB9445;">Xcelerator Demo Day on Nov 1</p>
-                      <a style="margin: 0; color: #CB9445;" href="https://sfblockchainweek.io">GAM3R Summit</a>
-                      <p style="margin: 0; color: #CB9445;">Career Fair on Oct 31</p>
-            <a style="margin: 0; color: #CB9445;" href="https://sfblockchainweek.io">SF Blockchain Week</a>
-        </div>
-         <div>
-           
-        </div>
-        <div>
-  
-            
-        </div>
-    </div>
-    <div style="display: flex; justify-content: space-between; width: 100%; margin-top: 0;">
+
+
+<div style="color: #18233D; width: 100%; margin-top: 50px;">
+    <h1 style="font-weight: 500; text-align: center; color: #CB9445;">Schedule of Events</h1>
+<p style="margin-top: 2px; text-align: center;"> <span style="font-weight: 700; font-size: 17px"> Oct 30 </span> &nbsp;
+<span style="font-weight: 400; font-size: 16px"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span> <a style="margin: 0; color: #CB9445; " href="https://rdi.berkeley.edu/zkp-workshop-2022/">ZKP Workshop</a></p>
+<p style="margin-top: 2px; text-align: center;"> <span style="font-weight: 700; font-size: 17px"> Oct 31 </span> &nbsp;
+<span style="font-weight: 400; font-size: 16px"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span> <a style="margin: 0; color: #CB9445;" href="https://docs.google.com/forms/d/e/1FAIpQLScCrcUlZInr-VUEK2V7Iyc_47o_MUjBe8HryTHFH1ovaN_B3g/viewform">Career Fair</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+<p style="margin-top: 2px; text-align: center;"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="font-weight: 700; font-size: 17px"> Nov 1 </span> &nbsp;
+<span style="font-weight: 400; font-size: 16px"> </span> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a style="margin: 0; color: #CB9445;" href="https://xcelerator.berkeley.edu/demo-days/demo-day-2022/
+">Xcelerator Demo Day</a></p>
+<p style="margin-top: 2px; text-align: center;"> &nbsp;&nbsp;&nbsp;<span style="font-weight: 700; font-size: 17px"> Nov 2 </span> &nbsp;
+<span style="font-weight: 400; font-size: 16px"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span> <a style="margin: 0; color: #CB9445;" href="https://gam3r.org/">GAM3R Summit</a></p>
+<p style="margin-top: 2px; text-align: center;"> <span style="font-weight: 700; font-size: 17px"> Oct 31 to Nov 6 </span> &nbsp;
+<span style="font-weight: 400; font-size: 16px"> </span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a style="margin: 0; color: #CB9445;" href="https://sfblockchainweek.io/">SF Blockchain Week</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+<p style="margin-top: 2px; text-align: center;"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="font-weight: 700; font-size: 17px"> Oct 31 to Nov 1 </span> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="font-weight: 400; font-size: 16px; color: #CB9445;"> Conference Paper Presentations & Lightning Talks</span></p>
+
+</div>
+
+     <div style="display: flex; justify-content: space-between; width: 100%; margin-top: 50px;">
         <div style="flex: 1; align-content: center; justify-content: center; display: flex; text-decoration: none; padding: 5px; margin-top: 0; ">
-            <button class="our-button" onclick="location.href='https://forms.gle/aHe217HEMLQ3DmH46'" type="button" style="background-color: #CB9445; font-weight : bold; color: white;">
-                Apply to Recruit at our Web3 Career Fair
+            <button class="our-button" onclick="location.href='https://docs.google.com/forms/d/e/1FAIpQLSd9AhkKqT1zSUMcH0hJ1hiyV40loTIPZQgaGVF8youeIQjuvw/viewform'" type="button" style="background-color: #CB9445; font-weight : bold; color: white;">
+                Apply for Student Travel Grant
             </button>
         </div>
-        <div style="flex: 1; align-content: center; justify-content: center; display: flex; text-decoration: none; padding: 5px; margin-top: 0; ">
-            <button class="our-button" onclick="location.href='https://forms.gle/75YzVQZEKjoR6aJv9'" type="button" style="background-color: #CB9445; font-weight : bold; color: white;">
-                Apply for Student Travel Grants
-            </button>
-        </div>
-    </div>
-    <div style="width: 100%; align-content: center; justify-content: center; display: flex; text-decoration: none; padding: 5px; margin-bottom: 2em; ">
+       
+  <div style="flex: 1; align-content: center; justify-content: center; display: flex; text-decoration: none; padding: 5px; margin-bottom: 2em; ">
         <button class="our-button" id="communityBtn" style="background-color: #CB9445; font-weight : bold; color: white;">
-                Sign up to stay informed for further announcements
+                Sign up to RDI Mailing List
             </button>
     </div>
-    <h1 style="font-weight: 500; color: #CB9445; margin-top: 0;">Location</h1>
-    <p style="font-weight: 700;">UC Berkeley <span style="font-weight: 500;">Campus</span></p>
+    </div>
+  
 </div>
 
 <h1 style="font-weight: 500; color: #CB9445;">Program</h1>
@@ -308,46 +315,7 @@ layout: home
 </tbody>
 </table>
 
-<div style="text-align: left; color: #18233D; width: 100%; margin: auto;">
-    <h1 style="font-weight: 500; color: #CB9445;">Organizing Committee</h1>
-    <p style="font-weight: 700;">Program Chairs</p>
-    <ul>
-        <li>Arthur Gervais, Imperial College London</li>
-        <li>Dawn Song, UC Berkeley</li>
-        <li>Marko Vukolic, Protocol Labs</li>
-    </ul>
-    <p style="font-weight: 700;">Program Committee</p>
-    <ul>
-        <li>Ittai Abraham, VMware Research</li>
-        <li>Zeta Avarikioti, Institute of Science and Technology Austria</li>
-        <li>Sarah Azouvi, Protocol Labs</li>
-        <li>Joseph Bonneau, a16z</li>
-        <li>Natacha Crooks, UC Berkeley</li>
-        <li>Ittay Eyal, Technion University</li>
-        <li>Sanjam Garg, UC Berkeley</li>
-        <li>Juan Garay, Texas A&M University</li>
-        <li>Philipp Jovanovic, University College London</li>
-        <li>Dahlia Malkhi, ChainLink Labs</li>
-        <li>Patrick McCorry, Infura</li>
-        <li>Andrew Miller, UIUC</li>
-        <li>Pedro Moreno-Sanchez, IMDEA</li>
-        <li>Christine Parlour, UC Berkeley</li>
-        <li>Kaihua Qin, Imperial College London</li>
-        <li>Ling Ren, UIUC</li>
-        <li>Dan Robinson, Paradigm</li>
-        <li>Tim Roughgarden, Columbia University</li>
-        <li>Arnab Roy, Meta</li>
-        <li>Clara Shikhelman, Chaincode Labs</li>
-        <li>Sam Sun, Paradigm</li>
-        <li>Glen Weyl, Microsoft Research</li>
-        <li>Yupeng Zhang, Texas A&M University</li>
-        <li>Mahdi Zamani, Visa Research</li>
-        <li>Fan Zhang, Duke University</li>
-        <li>Jiaheng Zhang, UC Berkeley</li>
-        <li>Liyi Zhou, Imperial College London</li>
-    </ul>
-</div>
-<div style="text-align: left; color: #18233D; width: 100%; margin: auto;">
+<div style="text-align: left; color: #18233D; width: 100%; margin-top: 100px">
     <h1 style="font-weight: 500; color: #CB9445;">Topics of Interest</h1>
     <p style="margin-bottom: 0; font-weight: 700; color: #CB9445;">Crypto Economics:</p>
     <p style="margin-top: 0;">studies that explore and address the economic aspects of  blockchain and Web3 technology, such as (i) economic and monetary aspects of cryptocurrencies, (ii) design and evaluation of incentive mechanisms (e.g., mining economics, staking economics, transaction fee market,  etc.), (iii) economics of security and privacy, (iv) systemic risk and resilience in cryptocurrency and decentralized finance systems.</p>
