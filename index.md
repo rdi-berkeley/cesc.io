@@ -199,7 +199,7 @@ layout: home
   </tr>
   <tr>
     <td class="tg-0pky"><span style="font-style:italic">3:20pm</span></td>
-    <td class="tg-0pky"><span style="font-weight:700;font-style:normal">Invited talk: </span><span style="font-weight:bold">DAO</span><br><span style="font-weight:400;font-style:italic;text-decoration:none">David Kerr (</span><span style="font-weight:400;font-style:italic">DAO Research Collective</span><span style="font-weight:400;font-style:italic;text-decoration:none">)</span></td>
+    <td class="tg-0pky"><span style="font-weight:700;font-style:normal">Invited talk: </span><span style="font-weight:bold">System of a DAO: Legal Entity Frameworks</span><br><span style="font-weight:400;font-style:italic;text-decoration:none">David Kerr (</span><span style="font-weight:400;font-style:italic">DAO Research Collective</span><span style="font-weight:400;font-style:italic;text-decoration:none">)</span></td>
   </tr>
   <tr>
     <td class="tg-y698"><span style="font-weight:400;font-style:italic;text-decoration:none">3:40pm</span></td>
