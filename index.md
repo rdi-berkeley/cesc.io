@@ -21,7 +21,7 @@ layout: home
     </div>
     <div style="flex: 1; align-content: center; justify-content: center; display: flex; text-decoration: none; padding: 5px; margin-top: 0; ">
             <button class="our-button" onclick="location.href='https://www.eventbrite.com/e/crypto-economics-security-conference-cesc-tickets-374418404527'" type="button" style="background-color: #CB9445; font-weight : bold; color: white;">
-                Registration
+                Register to attend in person or online
             </button>
         </div>
     <div style="display: flex; justify-content: space-between; width: 100%; margin-top: 0;">
@@ -32,7 +32,7 @@ layout: home
         </div>
         <div style="flex: 1; align-content: center; justify-content: center; display: flex; text-decoration: none; padding: 5px; margin-top: 0; ">
             <button class="our-button" onclick="location.href='https://rdi.berkeley.edu/zkp-workshop-2022/'" type="button" style="background-color: #CB9445; font-weight : bold; color: white;">
-                Submit your Abstract for ZK Proof Workshop
+                See details on ZKP Workshop here
             </button>
         </div>
     </div>
