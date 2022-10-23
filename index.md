@@ -52,15 +52,6 @@ layout: home
 <p style="margin-top: 2px; text-align: center;"> <span style="font-weight: 700; font-size: 17px"> Oct 31 to Nov 6 </span> &nbsp;
 <span style="font-weight: 400; font-size: 16px"> </span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a style="margin: 0; color: #CB9445;" href="https://sfblockchainweek.io/">SF Blockchain Week</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
 <p style="margin-top: 2px; text-align: center;"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="font-weight: 700; font-size: 17px"> Oct 31 to Nov 1 </span> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="font-weight: 400; font-size: 16px; color: #CB9445;"> Conference Paper Presentations & Lightning Talks</span></p>
-
-</div>
-
-     <div style="display: flex; justify-content: space-between; width: 100%; margin-top: 50px;">
-        <div style="flex: 1; align-content: center; justify-content: center; display: flex; text-decoration: none; padding: 5px; margin-top: 0; ">
-            <button class="our-button" onclick="location.href='https://docs.google.com/forms/d/e/1FAIpQLSd9AhkKqT1zSUMcH0hJ1hiyV40loTIPZQgaGVF8youeIQjuvw/viewform'" type="button" style="background-color: #CB9445; font-weight : bold; color: white;">
-                Apply for Student Travel Grant
-            </button>
-        </div>
        
   <div style="flex: 1; align-content: center; justify-content: center; display: flex; text-decoration: none; padding: 5px; margin-bottom: 2em; ">
         <button class="our-button" id="communityBtn" style="background-color: #CB9445; font-weight : bold; color: white;">
