@@ -27,7 +27,7 @@ layout: home
     <div style="display: flex; justify-content: space-between; width: 100%; margin-top: 0;">
         <div style="flex: 1; align-content: center; justify-content: center; display: flex; text-decoration: none; padding: 5px; margin-top: 0; ">
             <button class="our-button" onclick="location.href='https://docs.google.com/forms/d/e/1FAIpQLSce_fSywDOFkdC5FK9qAnF-nn5KmoLOeTjqdigJLjESilZLXA/viewform'" type="button" style="background-color: #CB9445; font-weight : bold; color: white;">
-                Apply to Present a Lightning Talk
+                Apply to Present a Lightning Talk (due by Tue Oct 25)
             </button>
         </div>
         <div style="flex: 1; align-content: center; justify-content: center; display: flex; text-decoration: none; padding: 5px; margin-top: 0; ">
