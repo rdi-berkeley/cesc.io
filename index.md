@@ -80,10 +80,21 @@ layout: home
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-h0w4" colspan="2"><span style="font-weight:400;font-style:normal;text-decoration:none">Mon Oct 31</span></th>
+    <th class="tg-h0w4" colspan="2"><span style="font-weight:400;font-style:normal;text-decoration:none">Sun Oct 30</span></th>
   </tr>
 </thead>
 <tbody>
+  <tr>
+    <td class="tg-f8tv"><span style="font-weight:400;font-style:italic;text-decoration:none">9:00am-</span><br><span style="font-weight:400;font-style:italic;text-decoration:none">6:00pm</span></td>
+    <td class="tg-0pky"><span style="font-weight:bold;font-style:normal;text-decoration:none"><a href="https://rdi.berkeley.edu/zkp-workshop-2022/">ZKP Workshop</a></span></td>
+  </tr>
+  <tr>
+    <td class="tg-f8tv"><span style="font-weight:400;font-style:italic;text-decoration:none">6:00pm-</span><br><span style="font-weight:400;font-style:italic;text-decoration:none">10:00pm</span></td>
+    <td class="tg-0pky"><span style="font-weight:bold;font-style:normal;text-decoration:none">ZKP Workshop Dinner and CESC Welcome Reception</span><br><span style="font-weight:400;font-style:italic">Co-hosted by p0xeidon, EigenLayer, Oasis, Scroll, zkbridge collective</span></td>
+  </tr>
+  <tr>
+    <td class="tg-h0w4" colspan="2"><span style="font-weight:400;font-style:normal;color:#FFF">Mon Oct 31</span></td>
+  </tr>
   <tr>
     <td class="tg-0pky"><span style="font-weight:400;font-style:italic;text-decoration:none">9:00am</span></td>
     <td class="tg-0pky"><span style="font-weight:bold;font-style:normal;text-decoration:none">Opening remarks</span></td>
@@ -193,8 +204,12 @@ layout: home
     <td class="tg-0pky"><span style="font-weight:700;font-style:normal">Invited talk: </span><span style="font-weight:bold">System of a DAO: Legal Entity Frameworks</span><br><span style="font-weight:400;font-style:italic;text-decoration:none">David Kerr (</span><span style="font-weight:400;font-style:italic">DAO Research Collective</span><span style="font-weight:400;font-style:italic;text-decoration:none">)</span></td>
   </tr>
   <tr>
-    <td class="tg-y698"><span style="font-weight:400;font-style:italic;text-decoration:none">3:40pm</span></td>
+    <td class="tg-y698"><span style="font-weight:400;font-style:italic;text-decoration:none">3:40pm-</span><br><span style="font-style:italic">6:00pm</span></td>
     <td class="tg-y698"><span style="font-weight:bold;font-style:normal;text-decoration:none">Reception &amp; poster session</span></td>
+  </tr>
+  <tr>
+    <td class="tg-0pky"><span style="font-style:italic">4:00pm-</span><br><span style="font-style:italic">8:00pm</span></td>
+    <td class="tg-0pky"><span style="font-weight:bold">Web3 & Blockchain Career fair</span><br><span style="font-weight:400;font-style:italic;text-decoration:none">Kerr Lobby</span></td>
   </tr>
   <tr>
     <td class="tg-h0w4" colspan="2"><span style="font-weight:400;font-style:normal;color:#FFF">Tue Nov 1</span></td>
@@ -300,8 +315,19 @@ layout: home
     <td class="tg-y698"><span style="font-weight:700;font-style:normal;text-decoration:none">Lightning Talks</span></td>
   </tr>
   <tr>
-    <td class="tg-y698"><span style="font-weight:400;font-style:italic;text-decoration:none">3:20pm</span></td>
+    <td class="tg-y698"><span style="font-weight:400;font-style:italic;text-decoration:none">3:20pm-</span><br><span style="font-style:italic">6:00pm</span></td>
     <td class="tg-y698"><span style="font-weight:bold;font-style:normal;text-decoration:none">Reception &amp; poster session</span></td>
+  </tr>
+  <tr>
+    <td class="tg-d5b1" colspan="2"><span style="font-weight:700;font-style:normal;text-decoration:none"><a href="https://xcelerator.berkeley.edu/demo-days/demo-day-2022/">Berkeley Blockchain Xcelerator Demo Day</a></span></td>
+  </tr>
+  <tr>
+    <td class="tg-0pky"><span style="font-weight:400;font-style:italic;text-decoration:none">4:30pm</span></td>
+    <td class="tg-0pky"><span style="font-weight:bold;font-style:normal;text-decoration:none">17 Teams from the 2022 cohort present</span><br><span style="font-weight:400;font-style:italic">Pauley Ballrooms</span></td>
+  </tr>
+  <tr>
+    <td class="tg-0pky"><span style="font-weight:400;font-style:italic;text-decoration:none">6:15pm</span></td>
+    <td class="tg-0pky"><span style="font-weight:bold;font-style:normal;text-decoration:none">Reception & Tabling by Teams</span><br><span style="font-weight:400;font-style:italic">Kerr Lobby</span></td>
   </tr>
 </tbody>
 </table>
