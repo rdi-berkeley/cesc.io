@@ -350,6 +350,45 @@ layout: home
     <p style="margin-top: 0;">The above is by no means an exhaustive list of topics we accept. Other topics in blockchain and Web3 including interdisciplinary studies, such as societal impact on decentralization technologies, decentralized intelligence, responsible innovation, etc., are also encouraged.</p>
 </div>
 <div style="text-align: left; color: #18233D; width: 100%; margin: auto;">
+    <h1 style="font-weight: 500; color: #CB9445;">Organizing Committee</h1>
+    <p style="font-weight: 700;">Program Chairs</p>
+    <ul>
+        <li>Arthur Gervais, Imperial College London</li>
+        <li>Dawn Song, UC Berkeley</li>
+        <li>Marko Vukolic, Protocol Labs</li>
+    </ul>
+    <p style="font-weight: 700;">Program Committee</p>
+    <ul>
+        <li>Ittai Abraham, VMware Research</li>
+        <li>Zeta Avarikioti, Institute of Science and Technology Austria</li>
+        <li>Sarah Azouvi, Protocol Labs</li>
+        <li>Joseph Bonneau, a16z</li>
+        <li>Natacha Crooks, UC Berkeley</li>
+        <li>Ittay Eyal, Technion University</li>
+        <li>Sanjam Garg, UC Berkeley</li>
+        <li>Juan Garay, Texas A&M University</li>
+        <li>Philipp Jovanovic, University College London</li>
+        <li>Dahlia Malkhi, ChainLink Labs</li>
+        <li>Patrick McCorry, Infura</li>
+        <li>Andrew Miller, UIUC</li>
+        <li>Pedro Moreno-Sanchez, IMDEA</li>
+        <li>Christine Parlour, UC Berkeley</li>
+        <li>Kaihua Qin, Imperial College London</li>
+        <li>Ling Ren, UIUC</li>
+        <li>Dan Robinson, Paradigm</li>
+        <li>Tim Roughgarden, Columbia University</li>
+        <li>Arnab Roy, Meta</li>
+        <li>Clara Shikhelman, Chaincode Labs</li>
+        <li>Sam Sun, Paradigm</li>
+        <li>Glen Weyl, Microsoft Research</li>
+        <li>Yupeng Zhang, Texas A&M University</li>
+        <li>Mahdi Zamani, Visa Research</li>
+        <li>Fan Zhang, Duke University</li>
+        <li>Jiaheng Zhang, UC Berkeley</li>
+        <li>Liyi Zhou, Imperial College London</li>
+    </ul>
+</div>
+<div style="text-align: left; color: #18233D; width: 100%; margin: auto;">
     <h1 style="font-weight: 500; color: #CB9445;">Other Information</h1>
     <p style="margin-bottom: 0; font-weight: 700; color: #CB9445;">Proceedings and Submission at other Conferences:</p>
     <p style="margin-top: 0;">CESC is not archival and does not have proceedings. It is allowed to submit work which has been published at or concurrently submitted to another conference or a journal.</p>
