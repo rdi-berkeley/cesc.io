@@ -90,7 +90,7 @@ layout: home
   </tr>
   <tr>
     <td class="tg-f8tv"><span style="font-weight:400;font-style:italic;text-decoration:none">6:00pm-</span><br><span style="font-weight:400;font-style:italic;text-decoration:none">10:00pm</span></td>
-    <td class="tg-0pky"><span style="font-weight:bold;font-style:normal;text-decoration:none">ZKP Workshop Dinner and CESC Welcome Reception</span><br><span style="font-weight:400;font-style:italic">Co-hosted by p0xeidon, EigenLayer, Oasis, Scroll, zkbridge collective</span></td>
+    <td class="tg-0pky"><span style="font-weight:bold;font-style:normal;text-decoration:none">ZKP Workshop Dinner and CESC Welcome Reception</span><br><span style="font-weight:400;font-style:italic">Co-hosted by p0xeidon, EigenLayer, Oasis, Scroll, zkcollective</span></td>
   </tr>
   <tr>
     <td class="tg-h0w4" colspan="2"><span style="font-weight:400;font-style:normal;color:#FFF">Mon Oct 31</span></td>
