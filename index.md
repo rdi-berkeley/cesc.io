@@ -43,7 +43,7 @@ layout: home
 <p style="margin-top: 2px; text-align: center;"> <span style="font-weight: 700; font-size: 17px"> Oct 30 </span> &nbsp;
 <span style="font-weight: 400; font-size: 16px"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span> <a style="margin: 0; color: #CB9445; " href="https://rdi.berkeley.edu/zkp-workshop-2022/">ZKP Workshop</a></p>
 <p style="margin-top: 2px; text-align: center;"> <span style="font-weight: 700; font-size: 17px"> Oct 31 </span> &nbsp;
-<span style="font-weight: 400; font-size: 16px"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span> <a style="margin: 0; color: #CB9445;" href="https://docs.google.com/forms/d/e/1FAIpQLScCrcUlZInr-VUEK2V7Iyc_47o_MUjBe8HryTHFH1ovaN_B3g/viewform">Career Fair</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+<span style="font-weight: 400; font-size: 16px"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span> <a style="margin: 0; color: #CB9445;" href="https://cesc.io/careerfair">Career Fair</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
 <p style="margin-top: 2px; text-align: center;"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="font-weight: 700; font-size: 17px"> Nov 1 </span> &nbsp;
 <span style="font-weight: 400; font-size: 16px"> </span> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a style="margin: 0; color: #CB9445;" href="https://xcelerator.berkeley.edu/demo-days/demo-day-2022/
 ">Xcelerator Demo Day</a></p>
