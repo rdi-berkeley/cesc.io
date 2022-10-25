@@ -97,7 +97,6 @@ layout: default
         </div>
     </div>
 </div>
-<a id="skip-to-content" href="https://zhiyong1997.github.io/cayman/#content">Skip to the content.</a>
 
     <header class="page-header" role="banner">
       <h1 class="project-name">CESC Career Fair</h1>
