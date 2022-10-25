@@ -54,7 +54,7 @@ layout: default
     <div id="header">
         <div id="logo-container" style="padding: 1rem;">
             <a href="https://rdi.berkeley.edu/">
-                <img src="./index_files/Berkeley Center for RDI Logo.png" id="logo">
+                <img src="/assets/images/Berkeley Center for RDI Logo.png" id="logo">
             </a>
         </div>
         <div id="nav-container">
