@@ -143,7 +143,7 @@ layout: home
   </tr>
   <tr>
     <td class="tg-0pky"><span style="font-weight:400;font-style:italic;text-decoration:none">11:20am</span></td>
-    <td class="tg-0pky"><span style="font-weight:bold;font-style:normal;text-decoration:none">Short talks on ZKP</span></td>
+    <td class="tg-0pky"><span style="font-weight:bold;font-style:normal;text-decoration:none">Short talks on zkEVM</span><br><br><span style="font-weight:bold;font-style:normal;text-decoration:none">Polygon Miden: an actor-based general purpose ZK rollup</span><br><span style="font-weight:400;font-style:italic">Bobbin Threadbare (Polygon Maiden)</span><br><br><span style="font-weight:bold;font-style:normal;text-decoration:none">zkEVM Demo</span><br><span style="font-weight:400;font-style:italic">Jordi Baylina (Polygon Hermez)</span><br><br><span style="font-weight:bold;font-style:normal;text-decoration:none">zkEVM architecture</span><br><span style="font-weight:400;font-style:italic">Ye Zhang (Scroll)</span></td>
   </tr>
   <tr>
     <td class="tg-y698"><span style="font-weight:400;font-style:italic">11:40am</span></td>
