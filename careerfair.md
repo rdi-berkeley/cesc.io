@@ -99,7 +99,7 @@ layout: default
 </div>
 
     <header class="page-header" role="banner">
-      <h1 class="project-name">CESC Career Fair</h1>
+      <h1 class="project-name">CESC Web3/Blockchain Career Fair</h1>
       <h2 class="project-tagline">October 31, 2022</h2>
       <p>Come land an exciting job or internship at a rapidly growing company in Web3 & Blockchain. </p>
     </header>
@@ -180,7 +180,7 @@ layout: default
     <main id="content" class="main-content" role="main">
       
 
-      <p>We’re bringing together 12 industry-leading companies who are looking to fill over 200 job and internship positions. You won’t want to miss this opportunity! </p>
+      <p>We’re bringing together 10 industry-leading companies who are looking to fill over 200 job and internship positions. You won’t want to miss this opportunity! </p>
 <!-- <p><sub> We’re bringing together 12 industry-leading companies who are looking to fill over 200 job and internship positions. You won’t want to miss this opportunity! </sub></p> -->
 
 <h2 id="date-and-location">Date and Location</h2>
