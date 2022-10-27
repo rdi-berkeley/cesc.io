@@ -159,7 +159,7 @@ layout: default
       <img class="affiliated" src="/assets/images/eluvio_logo.png" alt="CaGOV" />
       </div>
     </a>
-    <a href="Nervos.org" class="affiliated-link">
+    <a href="https://nervos.org" class="affiliated-link">
       <div style="width: 70%; height: 70%; display: flex">
         <img class="affiliated" src="/assets/images/nervos_logo.png" alt="EduAO" />
       </div>
