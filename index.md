@@ -393,9 +393,101 @@ layout: home
     <p style="margin-bottom: 0; font-weight: 700; color: #CB9445;">Proceedings and Submission at other Conferences:</p>
     <p style="margin-top: 0;">CESC is not archival and does not have proceedings. It is allowed to submit work which has been published at or concurrently submitted to another conference or a journal.</p>
 </div>
+<div style="display: flex; flex-direction: column; justify-content: space-between; width: 100%; margin: auto;">
+    <div style="flex: 1; text-align: left; color: #18233D; width: 100%; margin: auto;">
+      <h1 style="font-weight: 500; color: #CB9445;">Sponsors</h1>
+      <p style="margin-bottom: 0;">Funding for this conference and its affiliated events was provided by:</p>
+    </div>
+    <div class="sponsor-container" style="width: 100%; margin-top: 0;">
+        <div class="sponsor-item-primary">
+          <a href="https://www.edudao.io/" style="text-decoration:none">
+            <img class="sponsor-item-img-primary-1" src='/assets/images/sponsors/edudao.png' />
+          </a>
+        </div>
+        <div class="sponsor-item-primary">
+          <a href="https://www.algorand.com/" style="text-decoration:none">
+            <img class="sponsor-item-img-primary-2" src='/assets/images/sponsors/algorand.jpeg' />
+          </a>
+        </div>
+        <div class="sponsor-item-primary">
+          <a href="https://jumpcrypto.com/" style="text-decoration:none">
+            <img class="sponsor-item-img-primary-2" src='/assets/images/sponsors/jump.png' />
+          </a>
+        </div>
+        <div class="sponsor-item-primary">
+          <a href="https://web3.foundation/" style="text-decoration:none">
+            <img class="sponsor-item-img-primary-2" src='/assets/images/sponsors/web3foundation.jpeg' />
+          </a>
+        </div>
+    </div>
+    <div class="sponsor-container" style="width: 90%">
+        <div class="sponsor-item">
+          <a href="https://ethereum.foundation/" style="text-decoration:none">
+            <img class="sponsor-item-img-larger" src='/assets/images/sponsors/ethfoundation.png' />
+          </a>
+        </div>
+        <div class="sponsor-item">
+          <a href="https://www.circle.com/" style="text-decoration:none">
+            <img class="sponsor-item-img" src='/assets/images/sponsors/circle.png' />
+          </a>
+        </div>
+        <div class="sponsor-item">
+          <a href="https://chain.link/" style="text-decoration:none">
+            <img class="sponsor-item-img" src='/assets/images/sponsors/chainlink.png' />
+          </a>
+        </div>
+        <div class="sponsor-item">
+          <a href="https://protocol.ai/" style="text-decoration:none">
+            <img class="sponsor-item-img" src='/assets/images/sponsors/protocollabs.png' />
+          </a>
+        </div>
+        <div class="sponsor-item">
+          <a href="https://ripple.com/" style="text-decoration:none">
+            <img class="sponsor-item-img" src='/assets/images/sponsors/ripple.png' />
+          </a>
+        </div>
+        <div class="sponsor-item">
+          <a href="https://game7.io/" style="text-decoration:none">
+            <img class="sponsor-item-img" src='/assets/images/sponsors/g7.png' />
+          </a>
+        </div>
+    </div>
+    <div class="sponsor-container" style="width: 90%">
+        <div class="sponsor-item">
+          <a href="https://www.cisco.com/" style="text-decoration:none">
+            <img class="sponsor-item-img" src='/assets/images/sponsors/cisco.png' />
+          </a>
+        </div>
+        <div class="sponsor-item">
+          <a href="https://www.0x.org/" style="text-decoration:none">
+            <img class="sponsor-item-img" src='/assets/images/sponsors/0x.png' />
+          </a>
+        </div>
+        <div class="sponsor-item">
+          <a href="https://www.nervos.org/" style="text-decoration:none">
+            <img class="sponsor-item-img" src='/assets/images/sponsors/nervos.png' />
+          </a>
+        </div>
+        <div class="sponsor-item">
+          <a href="https://capital.hashkey.com/" style="text-decoration:none">
+            <img class="sponsor-item-img" src='/assets/images/sponsors/hashkey.png' />
+          </a>
+        </div>
+        <div class="sponsor-item">
+          <a href="https://live.eluv.io/" style="text-decoration:none">
+            <img class="sponsor-item-img" src='/assets/images/sponsors/eluvio.png' />
+          </a>
+        </div>
+        <div class="sponsor-item">
+          <a href="https://anchain.ai/" style="text-decoration:none">
+            <img class="sponsor-item-img" src='/assets/images/sponsors/anchain.png' />
+          </a>
+        </div>
+    </div>
+</div>
 <div style="text-align: left; color: #18233D; width: 100%; margin: auto;">
     <h1 style="font-weight: 500; color: #CB9445;">Affiliates</h1>
-    <div class="sponsor-container">
+    <div class="sponsor-container" style="width: 90%">
         <!-- <div style="display: flex; flex-direction: column; align-items: center;"> -->
         <div>
             <img class="sponsor-img" src='/assets/images/sponsors/1.png' />
