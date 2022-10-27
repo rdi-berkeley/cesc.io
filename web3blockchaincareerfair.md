@@ -104,8 +104,23 @@ layout: default
       <p>Come land an exciting job or internship at a rapidly growing company in Web3 & Blockchain. </p>
     </header>
 
+    <main id="content" class="main-content" role="main">
+      
 
-  <div id="affiliated-images-container" style="margin-top: 50px">
+      <p>We’re bringing together 10 industry-leading companies who are looking to fill over 200 job and internship positions. You won’t want to miss this opportunity! </p>
+<!-- <p><sub> We’re bringing together 12 industry-leading companies who are looking to fill over 200 job and internship positions. You won’t want to miss this opportunity! </sub></p> -->
+
+<h2 id="date-and-location">Date and Location</h2>
+<p><strong>October 31, 2022</strong><br>
+<strong>Kerr Lobby, MLK Building, UC Berkeley</strong></p>
+
+<h2 id="registration">Registration</h2>
+
+<p><button name="button" style="background:#FFA500;border-color: #FFA500;color:white;font-weight:bold;" onclick="window.location.href=&#39;https://berkeleyrdi.wufoo.com/forms/z1r3l8yw1cwjtc0/&#39;;"> Submit your resume to participate in the career fair</button></p>
+
+<h2 id="call-for-contributed-talks" style="margin-top:50px">Companies Recruiting:  (200+ jobs)</h2>
+
+ <div id="affiliated-images-container" style="margin-top: 50px">
     <a href="" style="width: 180px">
       <div style="width: 85%; height: 85%;">
       </div>
@@ -152,7 +167,7 @@ layout: default
   </div>
 
 
-  <div id="affiliated-images-container" style="margin-top: 30px">
+  <div id="affiliated-images-container" style="margin-top: 50px">
      <a href="" style="width: 150px">
       <div style="width: 85%; height: 85%;">
       </div>
@@ -172,26 +187,7 @@ layout: default
       <img class="affiliated" src="/assets/images/evmos_logo.png" alt="CaGOV" />
       </div>
     </a>
-      
-   
   </div>
-  
-
-    <main id="content" class="main-content" role="main">
-      
-
-      <p>We’re bringing together 10 industry-leading companies who are looking to fill over 200 job and internship positions. You won’t want to miss this opportunity! </p>
-<!-- <p><sub> We’re bringing together 12 industry-leading companies who are looking to fill over 200 job and internship positions. You won’t want to miss this opportunity! </sub></p> -->
-
-<h2 id="date-and-location">Date and Location</h2>
-<p><strong>October 31, 2022</strong><br>
-<strong>Kerr Lobby, MLK Building, UC Berkeley</strong></p>
-
-<h2 id="registration">Registration</h2>
-
-<p><button name="button" style="background:#FFA500;border-color: #FFA500;color:white;font-weight:bold;" onclick="window.location.href=&#39;https://berkeleyrdi.wufoo.com/forms/z1r3l8yw1cwjtc0/&#39;;"> Submit your resume to participate in the career fair</button></p>
-
-<h2 id="call-for-contributed-talks">Companies Recruiting:  (200+ jobs)</h2>
 <p><ul>
 <li>Jump Crypto</li>
 <li>Chainlink Labs</li>
