@@ -185,11 +185,11 @@ layout: default
 
 <h2 id="date-and-location">Date and Location</h2>
 <p><strong>October 31, 2022</strong><br>
-<strong>The Woz (430-438), Soda Hall, UC Berkeley</strong></p>
+<strong>Kerr Lobby, MLK Building, UC Berkeley</strong></p>
 
 <h2 id="registration">Registration</h2>
 
-<p><button name="button" style="background:#FFA500;border-color: #FFA500;color:white;font-weight:bold;" onclick="window.location.href=&#39;https://berkeleyrdi.wufoo.com/forms/z1r3l8yw1cwjtc0/&#39;;"> Register here to attend the career fair</button></p>
+<p><button name="button" style="background:#FFA500;border-color: #FFA500;color:white;font-weight:bold;" onclick="window.location.href=&#39;https://berkeleyrdi.wufoo.com/forms/z1r3l8yw1cwjtc0/&#39;;"> Submit your resume to participate in the career fair</button></p>
 
 <h2 id="call-for-contributed-talks">Companies Recruiting:  (200+ jobs)</h2>
 <p><ul>
