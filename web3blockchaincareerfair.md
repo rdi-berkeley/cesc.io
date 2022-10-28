@@ -98,16 +98,14 @@ layout: default
     </div>
 </div>
 
-    <header class="page-header" role="banner">
-      <h1 class="project-name">CESC Web3/Blockchain Career Fair</h1>
-      <h2 class="project-tagline">October 31, 2022 4pm-8pm</h2>
-      <p>Come land an exciting job or internship at a rapidly growing company in Web3 & Blockchain. </p>
-    </header>
+<header class="page-header" role="banner">
+  <h1 class="project-name">CESC Web3/Blockchain Career Fair</h1>
+  <h2 class="project-tagline">October 31, 2022 4pm-8pm</h2>
+  <p>Come land an exciting job or internship at a rapidly growing company in Web3 & Blockchain. </p>
+</header>
 
-    <main id="content" class="main-content" role="main">
-      
-
-      <p>We’re bringing together 11 industry-leading companies who are looking to fill over 200 job and internship positions. You won’t want to miss this opportunity! </p>
+<main id="content" class="main-content" role="main">
+  <p>We’re bringing together 11 industry-leading companies who are looking to fill over 200 job and internship positions. You won’t want to miss this opportunity! </p>
 <!-- <p><sub> We’re bringing together 11 industry-leading companies who are looking to fill over 200 job and internship positions. You won’t want to miss this opportunity! </sub></p> -->
 
 <h2 id="date-and-location">Date and Location</h2>
@@ -118,81 +116,71 @@ layout: default
 
 <p><button name="button" style="background:#FFA500;border-color: #FFA500;color:white;font-weight:bold;" onclick="window.location.href=&#39;https://berkeleyrdi.wufoo.com/forms/z1r3l8yw1cwjtc0/&#39;;"> Submit your resume to participate in the career fair</button></p>
 
-<h2 id="call-for-contributed-talks" style="margin-top:50px">Companies Recruiting:  (200+ jobs)</h2>
-
- <div id="affiliated-images-container" style="margin-top: 50px">
-    <a href="" style="width: 180px">
-      <div style="width: 85%; height: 85%;">
-      </div>
+<h2 id="companies-recruiting" style="margin-top:50px; margin-bottom:0;">Companies Recruiting:  (200+ jobs)</h2>
+<div class="affiliated-container">
+  <div class="affiliated-images-container">
+    <div class="affiliated-item">
+      <a href="https://jumpcrypto.com" style="margin: 0; padding: 0;">
+        <img class="affiliated" src="/assets/images/jump_logo.png" alt="Jump Crypto" />
       </a>
-    <a href="https://jumpcrypto.com" class="affiliated-link">
-      <div style="width: 90%; height: 90%; display: flex">
-        <img class="affiliated" src="/assets/images/jump_logo.png" alt="0x Labs" />
-      </div>
-    </a>
-    <a href="https://chainlinklabs.com/" class="affiliated-link">
-      <img class="affiliated" src="/assets/images/chainlink_logo.png" alt="Chain Link" />
-    </a>
-    <a href="https://www.circle.com/en/" class="affiliated-link">
-      <img class="affiliated" src="/assets/images/circle_logo.png" alt="Circle" />
-    </a>
+    </div>
+    <div class="affiliated-item">
+      <a href="https://chainlinklabs.com/" style="margin: 0; padding: 0;">
+        <img class="affiliated" src="/assets/images/chainlink_logo.png" alt="Chainlink" />
+      </a>
+    </div>
+    <div class="affiliated-item">
+      <a href="https://www.circle.com/en/" style="margin: 0; padding: 0;">
+        <img class="affiliated" src="/assets/images/circle_logo.png" alt="Circle" />
+      </a>
+    </div>
   </div>
-  
-
-  <div id="affiliated-images-container" style="margin-top: 80px">
-       <a href="" style="width: 100px">
-      <div style="width: 85%; height: 85%;">
-      </div>
-    </a>
-      <a href="https://www.ripple.com" class="affiliated-link">
-      <div style="width: 85%; height: 85%; display: flex">
-        <img class="affiliated" src="/assets/images/ripple_logo.png" alt="Cicso" />
-      </div>
-    </a>
-    <a href="https://capital.hashkey.com" class="affiliated-link">
-      <div style="width: 100%; height: 100%; display: flex">
-        <img class="affiliated" src="/assets/images/hashkey_logo.png" alt="EduAO" />
-      </div>
-    </a>
-      <a href="https://live.eluv.io/" class="affiliated-link">
-     <div style="width: 60%; height: 60%;">
-      <img class="affiliated" src="/assets/images/eluvio_logo.png" alt="CaGOV" />
-      </div>
-    </a>
-    <a href="https://nervos.org" class="affiliated-link">
-      <div style="width: 70%; height: 70%; display: flex">
-        <img class="affiliated" src="/assets/images/nervos_logo.png" alt="EduAO" />
-      </div>
-    </a>
+  <div class="affiliated-images-container">
+    <div class="affiliated-item">
+      <a href="https://www.ripple.com" style="margin: 0; padding: 0;">
+        <img class="affiliated" src="/assets/images/ripple_logo.png" alt="Ripple" />
+      </a>
+    </div>
+    <div class="affiliated-item">
+      <a href="https://capital.hashkey.com" style="margin: 0; padding: 0;">
+        <img class="affiliated" src="/assets/images/hashkey_logo.png" alt="HashKey" />
+      </a>
+    </div>
+    <div class="affiliated-item">
+      <a href="https://live.eluv.io/" style="margin: 0; padding: 0;">
+        <img class="affiliated" src="/assets/images/eluvio_logo.png" alt="Eluv.io" />
+      </a>
+    </div>
+    <div class="affiliated-item">
+      <a href="https://nervos.org" style="margin: 0; padding: 0;">
+        <img class="affiliated" src="/assets/images/nervos_logo.png" alt="Nervos" />
+      </a>
+    </div>
   </div>
-
-
-  <div id="affiliated-images-container" style="margin-top: 50px">
-   <a href="" style="width: 55px">
-      <div style="width: 85%; height: 85%;">
-      </div>
-    </a>
-      <a href="https://www.0x.org/" class="affiliated-link">
-      <div style="width: 75%; height: 75%; margin-top: 80px">
-        <img class="affiliated" src="/assets/images/0xlabs_logo.png" alt="Cicso" />
-      </div>
-    </a>
-      <a href="https://babylonchain.io/" class="affiliated-link">
-      <div style="width: 90%; height: 90%; margin-top: 100px">
-        <img class="affiliated" src="/assets/images/babylon_logo.png" alt="Cicso" />
-      </div>
-    </a>
-      <a href="https://evmos.org/" class="affiliated-link">
-     <div style="width: 70%; height: 70%;">
-      <img class="affiliated" src="/assets/images/evmos_logo.png" alt="CaGOV" />
-      </div>
-    </a>
-    <a href="https://www.anchain.ai" class="affiliated-link">
-      <div style="width: 80%; height: 80%; margin-top: 40px">
-        <img class="affiliated" src="/assets/images/anchain_logo.png" alt="Cicso" />
-      </div>
-    </a>
+  <div class="affiliated-images-container">
+    <div class="affiliated-item">
+      <a href="https://www.0x.org/" style="margin: 0; padding: 0;">
+        <img class="affiliated" src="/assets/images/0xlabs_logo.png" alt="0x Labs" />
+      </a>
+    </div>
+    <div class="affiliated-item">
+      <a href="https://babylonchain.io/" style="margin: 0; padding: 0;">
+        <img class="affiliated" src="/assets/images/babylon_logo.png" alt="Babylon Chain" />
+      </a>
+    </div>
+    <div class="affiliated-item">
+      <a href="https://evmos.org/" style="margin: 0; padding: 0;">
+        <img class="affiliated" src="/assets/images/evmos_logo.png" alt="Evmos" />
+      </a>
+    </div>
+    <div class="affiliated-item">
+      <a href="https://www.anchain.ai" style="margin: 0; padding: 0;">
+        <img class="affiliated" src="/assets/images/anchain_logo.png" alt="Anchain.AI" />
+      </a>
+    </div>
   </div>
+</div>
+
 <p><ol>
 <li style="margin: 10px">Jump Crypto: &emsp;<a href="https://jumpcrypto.com/careers/" style="font-size:15px">Career Page</a> </li>
 <li style="margin: 10px">Chainlink Labs: &emsp;<a href="https://chainlinklabs.com/jobs" style="font-size:15px">Career Page</a> </li>
@@ -207,8 +195,6 @@ layout: default
 <li style="margin: 10px">AnChain.AI: &emsp;<a href="https://www.linkedin.com/company/anchainai/jobs/" style="font-size:15px">Career Page</a> </li>
 </ol></p>
 
-
-
       
       <!--
       <footer class="site-footer">
@@ -218,7 +204,7 @@ layout: default
         <span class="site-footer-credits">This page was generated by <a href="https://pages.github.com">GitHub Pages</a>.</span>
       </footer>
       -->
-    </main>
+</main>
   
 
 <iframe scrolling="no" frameborder="0" allowtransparency="true" src="./index_files/widget_iframe.7dae38096d06923d683a2a807172322a.html" title="Twitter settings iframe" style="display: none;"></iframe><iframe id="rufous-sandbox" scrolling="no" frameborder="0" allowtransparency="true" allowfullscreen="true" style="position: absolute; visibility: hidden; display: none; width: 0px; height: 0px; padding: 0px; border: none;" title="Twitter analytics iframe" src="./index_files/saved_resource.html"></iframe></body><grammarly-desktop-integration data-grammarly-shadow-root="true"></grammarly-desktop-integration></html>
