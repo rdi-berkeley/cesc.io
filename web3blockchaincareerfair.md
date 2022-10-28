@@ -107,8 +107,8 @@ layout: default
     <main id="content" class="main-content" role="main">
       
 
-      <p>We’re bringing together 12 industry-leading companies who are looking to fill over 200 job and internship positions. You won’t want to miss this opportunity! </p>
-<!-- <p><sub> We’re bringing together 12 industry-leading companies who are looking to fill over 200 job and internship positions. You won’t want to miss this opportunity! </sub></p> -->
+      <p>We’re bringing together 11 industry-leading companies who are looking to fill over 200 job and internship positions. You won’t want to miss this opportunity! </p>
+<!-- <p><sub> We’re bringing together 11 industry-leading companies who are looking to fill over 200 job and internship positions. You won’t want to miss this opportunity! </sub></p> -->
 
 <h2 id="date-and-location">Date and Location</h2>
 <p><strong>October 31, 2022</strong><br>
@@ -192,11 +192,6 @@ layout: default
         <img class="affiliated" src="/assets/images/anchain_logo.png" alt="Cicso" />
       </div>
     </a>
-    <a href="https://quantstamp.com/" class="affiliated-link">
-      <div style="width: 60%; height: 60%; margin-top: 30px">
-        <img class="affiliated" src="/assets/images/quantstamp_logo.png" alt="Cicso" />
-      </div>
-    </a>
   </div>
 <p><ol>
 <li style="margin: 10px">Jump Crypto: &emsp;<a href="https://jumpcrypto.com/careers/" style="font-size:15px">Career Page</a> </li>
@@ -210,7 +205,6 @@ layout: default
 <li style="margin: 10px">Babylon: &emsp;<a href="https://babylonchain.io/career" style="font-size:15px">Career Page</a> </li>
 <li style="margin: 10px">Evmos: &emsp;<a href="https://boards.eu.greenhouse.io/evmos" style="font-size:15px">Career Page</a> </li>
 <li style="margin: 10px">AnChain.AI: &emsp;<a href="https://www.linkedin.com/company/anchainai/jobs/" style="font-size:15px">Career Page</a> </li>
-<li style="margin: 10px">Quantstamp: &emsp;<a href="https://quantstamp.com/careers" style="font-size:15px">Career Page</a> </li>
 </ol></p>
 
 
