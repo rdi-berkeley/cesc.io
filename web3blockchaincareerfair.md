@@ -168,38 +168,50 @@ layout: default
 
 
   <div id="affiliated-images-container" style="margin-top: 50px">
-     <a href="" style="width: 150px">
+   <a href="" style="width: 55px">
       <div style="width: 85%; height: 85%;">
       </div>
+    </a>
       <a href="https://www.0x.org/" class="affiliated-link">
-      <div style="width: 60%; height: 60%; margin-top: 70px">
+      <div style="width: 75%; height: 75%; margin-top: 80px">
         <img class="affiliated" src="/assets/images/0xlabs_logo.png" alt="Cicso" />
       </div>
     </a>
       <a href="https://babylonchain.io/" class="affiliated-link">
-      <div style="width: 80%; height: 80%; margin-top: 100px">
+      <div style="width: 90%; height: 90%; margin-top: 100px">
         <img class="affiliated" src="/assets/images/babylon_logo.png" alt="Cicso" />
       </div>
     </a>
-    </a>
       <a href="https://evmos.org/" class="affiliated-link">
-     <div style="width: 60%; height: 60%;">
+     <div style="width: 70%; height: 70%;">
       <img class="affiliated" src="/assets/images/evmos_logo.png" alt="CaGOV" />
       </div>
     </a>
+    <a href="www.anchain.ai" class="affiliated-link">
+      <div style="width: 80%; height: 80%; margin-top: 40px">
+        <img class="affiliated" src="/assets/images/anchain_logo.png" alt="Cicso" />
+      </div>
+    </a>
+    <a href="https://quantstamp.com/" class="affiliated-link">
+      <div style="width: 60%; height: 60%; margin-top: 30px">
+        <img class="affiliated" src="/assets/images/quantstamp_logo.png" alt="Cicso" />
+      </div>
+    </a>
   </div>
-<p><ul>
-<li>Jump Crypto</li>
-<li>Chainlink Labs</li>
-<li>Circle</li>
-<li>Ripple Labs</li>
-<li>HashKey Fintech Investment</li>
-<li>Eluv.io</li>
-<li>Nervos</li>
-<li>0x Labs</li>
-<li>Babylon</li>
-<li>Evmos</li>
-</ul></p>
+<p><ol>
+<li style="margin: 10px">Jump Crypto: &emsp;<a href="https://jumpcrypto.com/careers/" style="font-size:15px">Career Page</a> </li>
+<li style="margin: 10px">Chainlink Labs: &emsp;<a href="https://chainlinklabs.com/jobs" style="font-size:15px">Career Page</a> </li>
+<li style="margin: 10px">Circle: &emsp;<a href="https://www.circle.com/en/careers" style="font-size:15px">Career Page</a> </li>
+<li style="margin: 10px">Ripple Labs: &emsp;<a href="https://ripple.com/careers/all-jobs/" style="font-size:15px">Career Page</a> </li>
+<li style="margin: 10px">HashKey Fintech Investment: &emsp;<a href="https://www.hashkey.com/en/open-position" style="font-size:15px">Career Page</a> </li>
+<li style="margin: 10px">Eluv.io: &emsp;<a href="https://eluvio.co/careers/" style="font-size:15px">Career Page</a> </li>
+<li style="margin: 10px">Nervos: &emsp;<a href="https://www.nervos.org/about/join-us" style="font-size:15px">Career Page</a> </li>
+<li style="margin: 10px">0x Labs: &emsp;<a href="https://boards.greenhouse.io/0x" style="font-size:15px">Career Page</a> </li>
+<li style="margin: 10px">Babylon: &emsp;<a href="https://babylonchain.io/career" style="font-size:15px">Career Page</a> </li>
+<li style="margin: 10px">Evmos: &emsp;<a href="https://boards.eu.greenhouse.io/evmos" style="font-size:15px">Career Page</a> </li>
+<li style="margin: 10px">AnChain.AI: &emsp;<a href="https://www.linkedin.com/company/anchainai/jobs/" style="font-size:15px">Career Page</a> </li>
+<li style="margin: 10px">Quantstamp: &emsp;<a href="https://quantstamp.com/careers" style="font-size:15px">Career Page</a> </li>
+</ol></p>
 
 
 
