@@ -16,7 +16,7 @@ layout: home
             <p style="margin-top: 2;"> <span style="font-weight: 700; font-size: 17px"> Accommodations: </span> &nbsp;
 <span style="font-weight: 400; font-size: 16px"><a style="margin: 0; color: #CB9445;" href="https://docs.google.com/spreadsheets/d/1JDHp4xH8RtFHkBAY3WnxB5V737lX-BabE7CK-TuX14s/edit?usp=sharing">Hotel Recommendations </a> </span> </p>
              <p style="margin-top: 2;"> <span style="font-weight: 700; font-size: 17px"> Virtual Attending: </span> &nbsp;
-<span style="font-weight: 400; font-size: 16px"><a style="margin: 0; color: #CB9445;" href="https://berkeley-rdi-crypto-economics-security-conference-cesc-2022.eventbrite.com">Registration (select attend virtually on order form)</a></span> </p>
+<span style="font-weight: 400; font-size: 16px"><a style="margin: 0; color: #CB9445;" href="https://berkeley-rdi-crypto-economics-security-conference-cesc-2022.eventbrite.com">Registration (select attend virtually on order form)</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a style="margin: 0; color: #CB9445;" href="https://youtube.com/playlist?list=PLS01nW3Rtgop6VBy4Dvhea-hzOR2FAqsy">Livestream</a></span> </p>
         </div>
     </div>
     <div style="flex: 1; align-content: center; justify-content: center; display: flex; text-decoration: none; padding: 5px; margin-top: 0; ">
@@ -40,13 +40,13 @@ layout: home
 
 <div style="color: #18233D; width: 100%; margin-top: 50px;">
     <h1 style="font-weight: 500; text-align: center; color: #CB9445;">Schedule of Events</h1>
-<p style="margin-top: 2px; text-align: center;"> <span style="font-weight: 700; font-size: 17px"> Oct 30 </span> &nbsp;
-<span style="font-weight: 400; font-size: 16px"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span> <a style="margin: 0; color: #CB9445; " href="https://rdi.berkeley.edu/zkp-workshop-2022/">ZKP Workshop</a></p>
+<p style="margin-top: 2px; text-align: center;"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="font-weight: 700; font-size: 17px"> Oct 30 </span> &nbsp;
+<span style="font-weight: 400; font-size: 16px"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span> <a style="margin: 0; color: #CB9445; " href="https://rdi.berkeley.edu/zkp-workshop-2022/"> ZKP Workshop</a> &nbsp;&nbsp;|&nbsp;&nbsp; <a style="margin: 0; color: #CB9445; " href="https://youtube.com/playlist?list=PLS01nW3Rtgor2MjOJBJexhQ6ZKWs6uQw8">Livestream</a></p>
 <p style="margin-top: 2px; text-align: center;"> <span style="font-weight: 700; font-size: 17px"> Oct 31 </span> &nbsp;
-<span style="font-weight: 400; font-size: 16px"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span> <a style="margin: 0; color: #CB9445;" href="https://cesc.io/web3blockchaincareerfair">Career Fair</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
-<p style="margin-top: 2px; text-align: center;"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="font-weight: 700; font-size: 17px"> Nov 1 </span> &nbsp;
+<span style="font-weight: 400; font-size: 16px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span> <a style="margin: 0; color: #CB9445;" href="https://cesc.io/web3blockchaincareerfair">Career Fair</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+<p style="margin-top: 2px; text-align: center;"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="font-weight: 700; font-size: 17px"> Nov 1 </span> &nbsp;
 <span style="font-weight: 400; font-size: 16px"> </span> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a style="margin: 0; color: #CB9445;" href="https://xcelerator.berkeley.edu/demo-days/demo-day-2022/
-">Xcelerator Demo Day</a></p>
+">Xcelerator Demo Day</a> &nbsp;&nbsp;|&nbsp;&nbsp; <a style="margin: 0; color: #CB9445; " href="https://youtube.com/playlist?list=PLS01nW3RtgoqabZ6CmagB-mU-FpeFPziQ">Livestream</a></p>
 <p style="margin-top: 2px; text-align: center;"> &nbsp;&nbsp;&nbsp;<span style="font-weight: 700; font-size: 17px"> Nov 2 </span> &nbsp;
 <span style="font-weight: 400; font-size: 16px"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span> <a style="margin: 0; color: #CB9445;" href="https://gam3r.org/">GAM3R Summit</a></p>
 <p style="margin-top: 2px; text-align: center;"> <span style="font-weight: 700; font-size: 17px"> Oct 31 to Nov 6 </span> &nbsp;
@@ -86,14 +86,14 @@ layout: home
 <tbody>
   <tr>
     <td class="tg-f8tv"><span style="font-weight:400;font-style:italic;text-decoration:none">9:00am-</span><br><span style="font-weight:400;font-style:italic;text-decoration:none">6:00pm</span></td>
-    <td class="tg-0pky"><span style="font-weight:bold;font-style:normal;text-decoration:none"><a href="https://rdi.berkeley.edu/zkp-workshop-2022/">ZKP Workshop</a></span></td>
+    <td class="tg-0pky"><span style="font-weight:bold;font-style:normal;text-decoration:none"><a href="https://rdi.berkeley.edu/zkp-workshop-2022/">ZKP Workshop</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="https://youtube.com/playlist?list=PLS01nW3Rtgor2MjOJBJexhQ6ZKWs6uQw8">Livestream</a></span></td>
   </tr>
   <tr>
     <td class="tg-f8tv"><span style="font-weight:400;font-style:italic;text-decoration:none">6:00pm-</span><br><span style="font-weight:400;font-style:italic;text-decoration:none">10:00pm</span></td>
-    <td class="tg-0pky"><span style="font-weight:bold;font-style:normal;text-decoration:none">ZKP Workshop Dinner and CESC Welcome Reception</span><br><span style="font-weight:400;font-style:italic">Co-hosted by p0xeidon, EigenLayer, Oasis, Scroll, zkcollective</span></td>
+    <td class="tg-0pky"><span style="font-weight:bold;font-style:normal;text-decoration:none">ZKP Workshop Dinner and CESC Welcome Reception&nbsp;&nbsp;|&nbsp;&nbsp;<a href="https://lu.ma/zkpworkshopdinner">Register Here</a></span><br><span style="font-weight:400;font-style:italic">Co-hosted by p0xeidon, EigenLayer, Oasis, Scroll, zkcollective</span></td>
   </tr>
   <tr>
-    <td class="tg-h0w4" colspan="2"><span style="font-weight:400;font-style:normal;color:#FFF">Mon Oct 31</span></td>
+    <td class="tg-h0w4" colspan="2"><span style="font-weight:400;font-style:normal;color:#FFF">Mon Oct 31&nbsp;&nbsp;|&nbsp;&nbsp;<a href="https://www.youtube.com/playlist?list=PLS01nW3Rtgop6VBy4Dvhea-hzOR2FAqsy">Livestream</a></span></td>
   </tr>
   <tr>
     <td class="tg-0pky"><span style="font-weight:400;font-style:italic;text-decoration:none">9:00am</span></td>
@@ -150,7 +150,7 @@ layout: home
     <td class="tg-y698"><span style="font-weight:bold">Lunch</span></td>
   </tr>
   <tr>
-    <td class="tg-d5b1" colspan="2"><span style="font-weight:bold;font-style:normal;text-decoration:none">Session 3: </span><span style="font-weight:bold">Scalability/Consensus</span><span style="font-style:italic;float:right">session chair: Natacha Crooks</span></td>
+    <td class="tg-d5b1" colspan="2"><span style="font-weight:bold;font-style:normal;text-decoration:none">Session 3: </span><span style="font-weight:bold">Scalability/Consensus</span><span style="font-style:italic;float:right">session chair: Natacha Crooks</span>&nbsp;&nbsp;|&nbsp;&nbsp;<a style="font-weight:bold" href="https://youtu.be/q5v3tLLoOXM">Livestream</a></td>
   </tr>
   <tr>
     <td class="tg-f8tv">1:00pm</td>
@@ -177,7 +177,7 @@ layout: home
     <td class="tg-y698"><span style="font-weight:bold">Break</span></td>
   </tr>
   <tr>
-    <td class="tg-d5b1" colspan="2"><span style="font-weight:bold;font-style:normal;text-decoration:none">Session 4: </span><span style="font-weight:bold">DeFi &amp; DAO</span><span style="font-style:italic;float:right">session chair: Dahlia Malkhi</span></td>
+    <td class="tg-d5b1" colspan="2"><span style="font-weight:bold;font-style:normal;text-decoration:none">Session 4: </span><span style="font-weight:bold">DeFi &amp; DAO</span><span style="font-style:italic;float:right">session chair: Dahlia Malkhi</span>&nbsp;&nbsp;|&nbsp;&nbsp;<a style="font-weight:bold" href="https://youtu.be/q5v3tLLoOXM">Livestream</a></td>
   </tr>
   <tr>
     <td class="tg-0pky"><span style="font-style:italic">2:15pm</span></td>
@@ -212,7 +212,11 @@ layout: home
     <td class="tg-0pky"><span style="font-weight:bold">Web3 & Blockchain Career fair</span><br><span style="font-weight:400;font-style:italic;text-decoration:none">Kerr Lobby</span></td>
   </tr>
   <tr>
-    <td class="tg-h0w4" colspan="2"><span style="font-weight:400;font-style:normal;color:#FFF">Tue Nov 1</span></td>
+    <td class="tg-y698"><span style="font-style:italic">6:00pm-</span><br><span style="font-style:italic">8:00pm</span></td>
+    <td class="tg-y698"><span style="font-weight:bold">Evening meetup hosted by Crust Network, OAK Network & Fairmint</span>&nbsp;&nbsp;|&nbsp;&nbsp;<a style="font-weight:bold" href="https://www.eventbrite.com/e/cesc-opening-night-event-crust-networkoak-network-fairminterupture-tickets-444885984957">Register here</a><br><span style="font-weight:400;font-style:italic;text-decoration:none">Spats Bar</span></td>
+  </tr>
+  <tr>
+    <td class="tg-h0w4" colspan="2"><span style="font-weight:400;font-style:normal;color:#FFF">Tue Nov 1&nbsp;&nbsp;|&nbsp;&nbsp;<a href="https://youtube.com/playlist?list=PLS01nW3Rtgop6VBy4Dvhea-hzOR2FAqsy">Livestream</a></span></td>
   </tr>
   <tr>
     <td class="tg-d5b1" colspan="2"><span style="font-weight:bold;text-decoration:none">Session 5: </span><span style="font-weight:bold">Security</span></td>
@@ -277,7 +281,7 @@ layout: home
     <td class="tg-y698"><span style="font-weight:bold">Lunch</span></td>
   </tr>
   <tr>
-    <td class="tg-d5b1" colspan="2"><span style="font-weight:700;font-style:normal;text-decoration:none">Session 7: CryptoEconomics I</span><span style="font-style:italic;float:right">session chair: Glen Weyl</span></td>
+    <td class="tg-d5b1" colspan="2"><span style="font-weight:700;font-style:normal;text-decoration:none">Session 7: CryptoEconomics I</span><span style="font-style:italic;float:right">session chair: Glen Weyl</span>&nbsp;&nbsp;|&nbsp;&nbsp;<a style="font-weight:bold" href="https://youtu.be/O6d0x6NXOig">Livestream</a></td>
   </tr>
   <tr>
     <td class="tg-0pky"><span style="font-style:italic">1:00pm</span></td>
@@ -300,7 +304,7 @@ layout: home
     <td class="tg-y698"><span style="font-weight:bold">Break</span></td>
   </tr>
   <tr>
-    <td class="tg-d5b1" colspan="2"><span style="font-weight:700;font-style:normal;text-decoration:none">Session 8: </span><span style="font-weight:700">CryptoEconomics II</span><span style="font-style:italic;float:right">session chair: Arthur Gervais</span></td>
+    <td class="tg-d5b1" colspan="2"><span style="font-weight:700;font-style:normal;text-decoration:none">Session 8: </span><span style="font-weight:700">CryptoEconomics II</span><span style="font-style:italic;float:right">session chair: Arthur Gervais</span>&nbsp;&nbsp;|&nbsp;&nbsp;<a style="font-weight:bold" href="https://youtu.be/O6d0x6NXOig">Livestream</a></td>
   </tr>
   <tr>
     <td class="tg-0pky"><span style="font-weight:400;font-style:italic;text-decoration:none">2:05pm</span></td>
@@ -319,7 +323,7 @@ layout: home
     <td class="tg-y698"><span style="font-weight:bold;font-style:normal;text-decoration:none">Reception &amp; poster session</span></td>
   </tr>
   <tr>
-    <td class="tg-d5b1" colspan="2"><span style="font-weight:700;font-style:normal;text-decoration:none"><a href="https://xcelerator.berkeley.edu/demo-days/demo-day-2022/">Berkeley Blockchain Xcelerator Demo Day</a></span></td>
+    <td class="tg-d5b1" colspan="2"><span style="font-weight:700;font-style:normal;text-decoration:none"><a href="https://xcelerator.berkeley.edu/demo-days/demo-day-2022/">Berkeley Blockchain Xcelerator Demo Day</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="https://youtube.com/playlist?list=PLS01nW3RtgoqabZ6CmagB-mU-FpeFPziQ">Livestream</a></span></td>
   </tr>
   <tr>
     <td class="tg-0pky"><span style="font-weight:400;font-style:italic;text-decoration:none">4:30pm</span></td>
@@ -328,6 +332,10 @@ layout: home
   <tr>
     <td class="tg-0pky"><span style="font-weight:400;font-style:italic;text-decoration:none">6:15pm</span></td>
     <td class="tg-0pky"><span style="font-weight:bold;font-style:normal;text-decoration:none">Reception & Tabling by Teams</span><br><span style="font-weight:400;font-style:italic">Kerr Lobby</span></td>
+  </tr>
+  <tr>
+    <td class="tg-y698"><span style="font-weight:400;font-style:italic;text-decoration:none">8:00pm</span></td>
+    <td class="tg-y698"><span style="font-weight:bold;font-style:normal;text-decoration:none">Evening Meetup Hosted by Evmos, Blockdaemon, Shima Capital</span>&nbsp;&nbsp;|&nbsp;&nbsp;<a style="font-weight:bold" href="https://www.eventbrite.com/e/evmos-blockdaemon-cesc-happy-hour-tickets-448664005117?aff=scet">Register here</a></td>
   </tr>
 </tbody>
 </table>
