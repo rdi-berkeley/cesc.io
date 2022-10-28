@@ -187,7 +187,7 @@ layout: default
       <img class="affiliated" src="/assets/images/evmos_logo.png" alt="CaGOV" />
       </div>
     </a>
-    <a href="www.anchain.ai" class="affiliated-link">
+    <a href="https://www.anchain.ai" class="affiliated-link">
       <div style="width: 80%; height: 80%; margin-top: 40px">
         <img class="affiliated" src="/assets/images/anchain_logo.png" alt="Cicso" />
       </div>
