@@ -100,7 +100,7 @@ layout: home
     <td class="tg-0pky"><span style="font-weight:bold;font-style:normal;text-decoration:none">Opening remarks</span></td>
   </tr>
   <tr>
-    <td class="tg-d5b1" colspan="2"><span style="font-weight:bold;font-style:normal;text-decoration:none">Session 1: </span><span style="font-weight:bold">Cryptography</span></td>
+    <td class="tg-d5b1" colspan="2"><span style="font-weight:bold;font-style:normal;text-decoration:none">Session 1: </span><span style="font-weight:bold">Cryptography</span><span style="font-style:italic;float:right">session chair: Arnab Roy</span></td>
   </tr>
   <tr>
     <td class="tg-f8tv"><span style="font-weight:400;font-style:italic;text-decoration:none">9:10am</span></td>
@@ -131,7 +131,7 @@ layout: home
     <td class="tg-y698"><span style="font-weight:bold;font-style:normal;text-decoration:none">Break</span></td>
   </tr>
   <tr>
-    <td class="tg-d5b1" colspan="2"><span style="font-weight:bold;font-style:normal;text-decoration:none">Session 2: </span><span style="font-weight:bold">Zero Knowledge Proof</span></td>
+    <td class="tg-d5b1" colspan="2"><span style="font-weight:bold;font-style:normal;text-decoration:none">Session 2: </span><span style="font-weight:bold">Zero Knowledge Proof</span><span style="font-style:italic;float:right">session chair: Dawn Song</span></td>
   </tr>
   <tr>
     <td class="tg-0pky"><span style="font-weight:400;font-style:italic;text-decoration:none">10:40am</span></td>
@@ -150,7 +150,7 @@ layout: home
     <td class="tg-y698"><span style="font-weight:bold">Lunch</span></td>
   </tr>
   <tr>
-    <td class="tg-d5b1" colspan="2"><span style="font-weight:bold;font-style:normal;text-decoration:none">Session 3: </span><span style="font-weight:bold">Scalability/Consensus</span></td>
+    <td class="tg-d5b1" colspan="2"><span style="font-weight:bold;font-style:normal;text-decoration:none">Session 3: </span><span style="font-weight:bold">Scalability/Consensus</span><span style="font-style:italic;float:right">session chair: Natacha Crooks</span></td>
   </tr>
   <tr>
     <td class="tg-f8tv">1:00pm</td>
@@ -177,7 +177,7 @@ layout: home
     <td class="tg-y698"><span style="font-weight:bold">Break</span></td>
   </tr>
   <tr>
-    <td class="tg-d5b1" colspan="2"><span style="font-weight:bold;font-style:normal;text-decoration:none">Session 4: </span><span style="font-weight:bold">DeFi &amp; DAO</span></td>
+    <td class="tg-d5b1" colspan="2"><span style="font-weight:bold;font-style:normal;text-decoration:none">Session 4: </span><span style="font-weight:bold">DeFi &amp; DAO</span><span style="font-style:italic;float:right">session chair: Dahlia Malkhi</span></td>
   </tr>
   <tr>
     <td class="tg-0pky"><span style="font-style:italic">2:15pm</span></td>
@@ -246,7 +246,7 @@ layout: home
     <td class="tg-y698"><span style="font-weight:bold">Break</span></td>
   </tr>
   <tr>
-    <td class="tg-d5b1" colspan="2"><span style="font-weight:700;font-style:normal;text-decoration:none">Session 6: </span><span style="font-weight:700">Privacy/Decentralized Identity/Data sovereignty</span></td>
+    <td class="tg-d5b1" colspan="2"><span style="font-weight:700;font-style:normal;text-decoration:none">Session 6: </span><span style="font-weight:700">Privacy/Decentralized Identity/Data sovereignty</span><span style="font-style:italic;float:right">session chair: Sanjam Garg</span></td>
   </tr>
   <tr>
     <td class="tg-0pky"><span style="font-weight:400;font-style:italic;text-decoration:none">10:25am</span></td>
@@ -277,7 +277,7 @@ layout: home
     <td class="tg-y698"><span style="font-weight:bold">Lunch</span></td>
   </tr>
   <tr>
-    <td class="tg-d5b1" colspan="2"><span style="font-weight:700;font-style:normal;text-decoration:none">Session 7: CryptoEconomics I</span></td>
+    <td class="tg-d5b1" colspan="2"><span style="font-weight:700;font-style:normal;text-decoration:none">Session 7: CryptoEconomics I</span><span style="font-style:italic;float:right">session chair: Glen Weyl</span></td>
   </tr>
   <tr>
     <td class="tg-0pky"><span style="font-style:italic">1:00pm</span></td>
@@ -300,7 +300,7 @@ layout: home
     <td class="tg-y698"><span style="font-weight:bold">Break</span></td>
   </tr>
   <tr>
-    <td class="tg-d5b1" colspan="2"><span style="font-weight:700;font-style:normal;text-decoration:none">Session 8: </span><span style="font-weight:700">CryptoEconomics II</span></td>
+    <td class="tg-d5b1" colspan="2"><span style="font-weight:700;font-style:normal;text-decoration:none">Session 8: </span><span style="font-weight:700">CryptoEconomics II</span><span style="font-style:italic;float:right">session chair: Arthur Gervais</span></td>
   </tr>
   <tr>
     <td class="tg-0pky"><span style="font-weight:400;font-style:italic;text-decoration:none">2:05pm</span></td>
@@ -312,7 +312,7 @@ layout: home
   </tr>
   <tr>
     <td class="tg-y698"><span style="font-weight:400;font-style:italic;text-decoration:none">2:50pm</span></td>
-    <td class="tg-y698"><span style="font-weight:700;font-style:normal;text-decoration:none">Lightning Talks</span></td>
+    <td class="tg-y698"><span style="font-weight:700;font-style:normal;text-decoration:none">Lightning Talks</span><span style="font-style:italic;float:right">session chair: Jiaheng Zhang</span></td>
   </tr>
   <tr>
     <td class="tg-y698"><span style="font-weight:400;font-style:italic;text-decoration:none">3:20pm-</span><br><span style="font-style:italic">6:00pm</span></td>
