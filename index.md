@@ -38,27 +38,38 @@ layout: home
     </div>
 
 
-<div style="color: #18233D; width: 100%; margin-top: 50px;">
+<div style="display: flex; flex-direction: column; align-items: center; color: #18233D; width: 100%; margin-top: 50px;">
     <h1 style="font-weight: 500; text-align: center; color: #CB9445;">Schedule of Events</h1>
-<p style="margin-top: 2px; text-align: center;"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="font-weight: 700; font-size: 17px"> Oct 30 </span> &nbsp;
-<span style="font-weight: 400; font-size: 16px"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span> <a style="margin: 0; color: #CB9445; " href="https://rdi.berkeley.edu/zkp-workshop-2022/"> ZKP Workshop</a> &nbsp;&nbsp;|&nbsp;&nbsp; <a style="margin: 0; color: #CB9445; " href="https://youtube.com/playlist?list=PLS01nW3Rtgor2MjOJBJexhQ6ZKWs6uQw8">Livestream</a></p>
-<p style="margin-top: 2px; text-align: center;"> <span style="font-weight: 700; font-size: 17px"> Oct 31 </span> &nbsp;
-<span style="font-weight: 400; font-size: 16px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span> <a style="margin: 0; color: #CB9445;" href="https://cesc.io/web3blockchaincareerfair">Career Fair</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
-<p style="margin-top: 2px; text-align: center;"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="font-weight: 700; font-size: 17px"> Nov 1 </span> &nbsp;
-<span style="font-weight: 400; font-size: 16px"> </span> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a style="margin: 0; color: #CB9445;" href="https://xcelerator.berkeley.edu/demo-days/demo-day-2022/
-">Xcelerator Demo Day</a> &nbsp;&nbsp;|&nbsp;&nbsp; <a style="margin: 0; color: #CB9445; " href="https://youtube.com/playlist?list=PLS01nW3RtgoqabZ6CmagB-mU-FpeFPziQ">Livestream</a></p>
-<p style="margin-top: 2px; text-align: center;"> &nbsp;&nbsp;&nbsp;<span style="font-weight: 700; font-size: 17px"> Nov 2 </span> &nbsp;
-<span style="font-weight: 400; font-size: 16px"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span> <a style="margin: 0; color: #CB9445;" href="https://gam3r.org/">GAM3R Summit</a></p>
-<p style="margin-top: 2px; text-align: center;"> <span style="font-weight: 700; font-size: 17px"> Oct 31 to Nov 6 </span> &nbsp;
-<span style="font-weight: 400; font-size: 16px"> </span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a style="margin: 0; color: #CB9445;" href="https://sfblockchainweek.io/">SF Blockchain Week</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
-<p style="margin-top: 2px; text-align: center;"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="font-weight: 700; font-size: 17px"> Oct 31 to Nov 1 </span> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="font-weight: 400; font-size: 16px; color: #CB9445;"> Conference Paper Presentations & Lightning Talks</span></p>
-       
-  <div style="flex: 1; align-content: center; justify-content: center; display: flex; text-decoration: none; padding: 5px; margin-bottom: 2em; ">
-        <button class="our-button" id="communityBtn" style="background-color: #CB9445; font-weight : bold; color: white;">
-                Sign up to RDI Mailing List
-            </button>
-    </div>
-    </div>
+    <table style="border-spacing: 15px;">
+      <tbody>
+        <tr>
+          <td style="border: 0; text-align: right; padding-right: 50px;"><span style="font-weight: 700; font-size: 17px">Oct 30</span></td><td style="border: 0;"><a style="margin: 0; color: #CB9445; " href="https://rdi.berkeley.edu/zkp-workshop-2022/"> ZKP Workshop</a> &nbsp;&nbsp;|&nbsp;&nbsp; <a style="margin: 0; color: #CB9445; " href="https://youtube.com/playlist?list=PLS01nW3Rtgor2MjOJBJexhQ6ZKWs6uQw8">Livestream</a></td>
+        </tr>
+        <tr>
+          <td style="border: 0; text-align: right; padding-right: 50px;"><span style="font-weight: 700; font-size: 17px">Oct 31</span></td><td style="border: 0;"><a style="margin: 0; color: #CB9445;" href="https://cesc.io/web3blockchaincareerfair">Career Fair</a></td>
+        </tr>
+        <tr>
+          <td style="border: 0; text-align: right; padding-right: 50px;"><span style="font-weight: 700; font-size: 17px">Nov 1</span></td><td style="border: 0;"><a style="margin: 0; color: #CB9445;" href="https://xcelerator.berkeley.edu/demo-days/demo-day-2022/
+">Xcelerator Demo Day</a> &nbsp;&nbsp;|&nbsp;&nbsp; <a style="margin: 0; color: #CB9445; " href="https://youtube.com/playlist?list=PLS01nW3RtgoqabZ6CmagB-mU-FpeFPziQ">Livestream</a></td>
+        </tr>
+        <tr>
+          <td style="border: 0; text-align: right; padding-right: 50px;"><span style="font-weight: 700; font-size: 17px">Nov 2</span></td><td style="border: 0;"><a style="margin: 0; color: #CB9445;" href="https://gam3r.org/">GAM3R Summit</a></td>
+        </tr>
+        <tr>
+          <td style="border: 0; text-align: right; padding-right: 50px;"><span style="font-weight: 700; font-size: 17px">Oct 31 to Nov 6</span></td><td style="border: 0;"><a style="margin: 0; color: #CB9445;" href="https://sfblockchainweek.io/">SF Blockchain Week</a></td>
+        </tr>
+        <tr>
+          <td style="border: 0; text-align: right; padding-right: 50px;"><span style="font-weight: 700; font-size: 17px">Oct 31 to Nov 1</span></td><td style="border: 0;"><span style="font-weight: 400; font-size: 16px; color: #CB9445;"> Conference Paper Presentations & Lightning Talks</span></td>
+        </tr>
+      </tbody>
+    </table>
+</div>
+<div style="flex: 1; align-content: center; justify-content: center; display: flex; text-decoration: none; padding: 5px; margin-bottom: 2em; ">
+  <button class="our-button" id="communityBtn" style="background-color: #CB9445; font-weight : bold; color: white;">
+    Sign up to RDI Mailing List
+  </button>
+</div>
+    
   
 </div>
 
