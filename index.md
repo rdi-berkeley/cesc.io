@@ -5,37 +5,32 @@ layout: home
 <div style="text-align: left; color: #18233D;">
     <p style="margin-top: 40px; font-size: 1.17rem;">The Crypto Economics Security Conference (CESC) aims to bring together researchers and practitioners to showcase and discuss the most recent developments in blockchain and Web3.</p>
     <p style="font-size: 1rem;">CESC is hosted by <a href="https://rdi.berkeley.edu/">Berkeley RDI</a>, a multi-disciplinary campus-wide center, focusing on advancing the science, technology and education of web3, decentralization and empowering of a responsible digital economy.</p>
-
     <div class="schedule-container">
         <div>
-        
-<p style="margin-top: 2px;"> <span style="font-weight: 700; font-size: 17px"> Conference Dates: </span> &nbsp;
-<span style="font-weight: 400; font-size: 16px">Oct 31 - Nov 1, 2022</span> </p>
-            <p style="margin-top: 2;"> <span style="font-weight: 700; font-size: 17px"> Venue: </span> &nbsp;
-<span style="font-weight: 400; font-size: 16px">Pauley Ballroom, Martin Luther King Jr. Building, UC Berkeley</span> </p>
-            <p style="margin-top: 2;"> <span style="font-weight: 700; font-size: 17px"> Accommodations: </span> &nbsp;
-<span style="font-weight: 400; font-size: 16px"><a style="margin: 0; color: #CB9445;" href="https://docs.google.com/spreadsheets/d/1JDHp4xH8RtFHkBAY3WnxB5V737lX-BabE7CK-TuX14s/edit?usp=sharing">Hotel Recommendations </a> </span> </p>
-             <p style="margin-top: 2;"> <span style="font-weight: 700; font-size: 17px"> Virtual Attending: </span> &nbsp;
-<span style="font-weight: 400; font-size: 16px"><a style="margin: 0; color: #CB9445;" href="https://berkeley-rdi-crypto-economics-security-conference-cesc-2022.eventbrite.com">Registration (select attend virtually on order form)</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a style="margin: 0; color: #CB9445;" href="https://youtube.com/playlist?list=PLS01nW3Rtgop6VBy4Dvhea-hzOR2FAqsy">Livestream</a></span> </p>
+          <p style="margin-top: 2px;"> 
+            <span style="font-weight: 700; font-size: 17px"> Conference Dates: </span> &nbsp;
+            <span style="font-weight: 400; font-size: 16px">Oct 31 - Nov 1, 2022</span>
+          </p>
+          <p style="margin-top: 2;"> 
+            <span style="font-weight: 700; font-size: 17px"> Venue: </span> &nbsp;
+            <span style="font-weight: 400; font-size: 16px">Pauley Ballroom, Martin Luther King Jr. Building, UC Berkeley</span> 
+          </p>
+          <p style="margin-top: 2;"> 
+            <span style="font-weight: 700; font-size: 17px"> Accommodations: </span> &nbsp;
+            <span style="font-weight: 400; font-size: 16px"><a style="margin: 0; color: #CB9445;" href="https://docs.google.com/spreadsheets/d/1JDHp4xH8RtFHkBAY3WnxB5V737lX-BabE7CK-TuX14s/edit?usp=sharing">Hotel Recommendations </a> </span> 
+          </p>
+          <p style="margin-top: 2;"> 
+            <span style="font-weight: 700; font-size: 17px"> Virtual Attending: </span> &nbsp;
+            <span style="font-weight: 400; font-size: 16px"><a style="margin: 0; color: #CB9445;" href="https://berkeley-rdi-crypto-economics-security-conference-cesc-2022.eventbrite.com">Registration (select attend virtually on order form)</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a style="margin: 0; color: #CB9445;" href="https://youtube.com/playlist?list=PLS01nW3Rtgop6VBy4Dvhea-hzOR2FAqsy">Livestream</a></span>
+          </p>
         </div>
     </div>
     <div style="flex: 1; align-content: center; justify-content: center; display: flex; text-decoration: none; padding: 5px; margin-top: 0; ">
-            <button class="our-button" onclick="location.href='https://www.eventbrite.com/e/crypto-economics-security-conference-cesc-tickets-374418404527'" type="button" style="background-color: #CB9445; font-weight : bold; color: white;">
-                Register to attend in person or online
-            </button>
-        </div>
-    <div style="display: flex; justify-content: space-between; width: 100%; margin-top: 0;">
-        <div style="flex: 1; align-content: center; justify-content: center; display: flex; text-decoration: none; padding: 5px; margin-top: 0; ">
-            <button class="our-button" onclick="location.href='https://docs.google.com/forms/d/e/1FAIpQLSce_fSywDOFkdC5FK9qAnF-nn5KmoLOeTjqdigJLjESilZLXA/viewform'" type="button" style="background-color: #CB9445; font-weight : bold; color: white;">
-                Apply to Present a Lightning Talk (due by Tue Oct 25)
-            </button>
-        </div>
-        <div style="flex: 1; align-content: center; justify-content: center; display: flex; text-decoration: none; padding: 5px; margin-top: 0; ">
-            <button class="our-button" onclick="location.href='https://rdi.berkeley.edu/zkp-workshop-2022/'" type="button" style="background-color: #CB9445; font-weight : bold; color: white;">
-                See details on ZKP Workshop here
-            </button>
-        </div>
+        <button class="our-button" onclick="location.href='https://www.eventbrite.com/e/crypto-economics-security-conference-cesc-tickets-374418404527'" type="button" style="background-color: #CB9445; font-weight : bold; color: white;">
+            Register to attend in person or online
+        </button>
     </div>
+    
 
 
 <div style="display: flex; flex-direction: column; align-items: center; color: #18233D; width: 100%; margin-top: 50px;">
