@@ -225,7 +225,7 @@ layout: home
     <td class="tg-h0w4" colspan="2"><span style="font-weight:400;font-style:normal;color:#FFF">Tue Nov 1&nbsp;&nbsp;|&nbsp;&nbsp;<a href="https://youtube.com/playlist?list=PLS01nW3Rtgop6VBy4Dvhea-hzOR2FAqsy">Livestream</a></span></td>
   </tr>
   <tr>
-    <td class="tg-d5b1" colspan="2"><span style="font-weight:bold;text-decoration:none">Session 5: </span><span style="font-weight:bold">Security</span></td>
+    <td class="tg-d5b1" colspan="2"><span style="font-weight:bold;text-decoration:none">Session 5: </span><span style="font-weight:bold">Security</span><span style="font-style:italic;float:right">session chair: Yupeng Zhang</span></td>
   </tr>
   <tr>
     <td class="tg-0pky"><span style="font-style:italic">9:00am</span></td>
