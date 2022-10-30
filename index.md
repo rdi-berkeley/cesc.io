@@ -346,7 +346,7 @@ layout: home
   </tr>
   <tr>
     <td class="tg-y698"><span style="font-weight:400;font-style:italic;text-decoration:none">7:30pm</span></td>
-    <td class="tg-y698"><span style="font-weight:bold;font-style:normal;text-decoration:none">Evening Meetup Hosted by Evmos, Blockdaemon, Shima Capital</span>&nbsp;&nbsp;|&nbsp;&nbsp;<a style="font-weight:bold" href="https://www.eventbrite.com/e/evmos-blockdaemon-cesc-happy-hour-tickets-448664005117?aff=scet">Register here</a></td>
+    <td class="tg-y698"><span style="font-weight:bold;font-style:normal;text-decoration:none">Evening Meetup Hosted by Evmos, Blockdaemon, Shima Capital, & Pantera</span>&nbsp;&nbsp;|&nbsp;&nbsp;<a style="font-weight:bold" href="https://www.eventbrite.com/e/evmos-blockdaemon-cesc-happy-hour-tickets-448664005117?aff=scet">Register here</a></td>
   </tr>
 </tbody>
 </table>
