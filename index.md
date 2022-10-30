@@ -26,6 +26,11 @@ layout: home
         </div>
     </div>
     <div style="flex: 1; align-content: center; justify-content: center; display: flex; text-decoration: none; padding: 5px; margin-top: 0; ">
+        <button class="our-button" onclick="location.href='https://t.me/BerkeleyRDIAnnouncements'" type="button" style="background-color: #CB9445; font-weight : bold; color: white;">
+            Join RDI Telegram for CESC announcements
+        </button>
+    </div>
+    <div style="flex: 1; align-content: center; justify-content: center; display: flex; text-decoration: none; padding: 5px; margin-top: 0; ">
         <button class="our-button" onclick="location.href='https://www.eventbrite.com/e/crypto-economics-security-conference-cesc-tickets-374418404527'" type="button" style="background-color: #CB9445; font-weight : bold; color: white;">
             Register to attend in person or online
         </button>
