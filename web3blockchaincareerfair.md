@@ -114,7 +114,8 @@ layout: default
 
 <h2 id="registration">Registration</h2>
 
-<p><button name="button" style="background:#FFA500;border-color: #FFA500;color:white;font-weight:bold;" onclick="window.location.href=&#39;https://berkeleyrdi.wufoo.com/forms/z1r3l8yw1cwjtc0/&#39;;"> Submit your resume to participate in the career fair</button></p>
+<p><strong>Registration is now closed; please see the career fair sites of recruiting organizations at bottom!</strong></p>
+
 
 <h2 id="companies-recruiting" style="margin-top:50px; margin-bottom:0;">Companies Recruiting:  (200+ jobs)</h2>
 <div class="affiliated-container">
