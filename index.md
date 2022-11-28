@@ -108,14 +108,14 @@ layout: home
   </tr>
   <tr>
     <td class="tg-0pky"><span style="font-weight:400;font-style:italic;text-decoration:none">9:00am</span></td>
-    <td class="tg-0pky"><span style="font-weight:bold;font-style:normal;text-decoration:none">Opening remarks</span></td>
+    <td class="tg-0pky"><span style="font-weight:bold;font-style:normal;text-decoration:none">Opening remarks &nbsp;&nbsp;&nbsp;<a style="margin: 0; font-size: 12px" href="https://youtu.be/kCqrd1MQ1no?t=1">[Video]</a></span></td>
   </tr>
   <tr>
     <td class="tg-d5b1" colspan="2"><span style="font-weight:bold;font-style:normal;text-decoration:none">Session 1: </span><span style="font-weight:bold">Cryptography</span><span style="font-style:italic;float:right">session chair: Arnab Roy</span></td>
   </tr>
   <tr>
     <td class="tg-f8tv"><span style="font-weight:400;font-style:italic;text-decoration:none">9:10am</span></td>
-    <td class="tg-0pky"><span style="font-weight:bold;font-style:normal;text-decoration:none">Succinct Zero-Knowledge Batch Proofs for Set Accumulators</span><br><span style="font-weight:400;font-style:italic">Matteo Campanelli </span><span style="font-style:italic">(Protocol Labs); Dario Fiore (IMDEA Software Institute); Semin Han (Hanyang University); Jihye Kim (Kookmin University); Dimitris Kolonelos (IMDEA Software Institute and Universidad Politecnica de Madrid, Spain); Hyunok Oh (Hanyang University)</span></td>
+    <td class="tg-0pky"><span style="font-weight:bold;font-style:normal;text-decoration:none">Succinct Zero-Knowledge Batch Proofs for Set Accumulators &nbsp;&nbsp;&nbsp;<a style="margin: 0; font-size: 12px" href="https://youtu.be/kCqrd1MQ1no?t=136">[Video]</a></span><br><span style="font-weight:400;font-style:italic">Matteo Campanelli </span><span style="font-style:italic">(Protocol Labs); Dario Fiore (IMDEA Software Institute); Semin Han (Hanyang University); Jihye Kim (Kookmin University); Dimitris Kolonelos (IMDEA Software Institute and Universidad Politecnica de Madrid, Spain); Hyunok Oh (Hanyang University)</span></td>
   </tr>
   <tr>
     <td class="tg-f8tv"><span style="font-weight:400;font-style:italic">9:20am</span></td>
