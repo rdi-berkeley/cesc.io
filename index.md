@@ -50,7 +50,7 @@ layout: home
         </tr>
         <tr>
           <td style="border: 0; text-align: right; padding-right: 50px;"><span style="font-weight: 700; font-size: 17px">Nov 1</span></td><td style="border: 0;"><a style="margin: 0; color: #CB9445;" href="https://xcelerator.berkeley.edu/demo-days/demo-day-2022/
-">Xcelerator Demo Day</a> ></td>
+">Xcelerator Demo Day</a> </td>
         </tr>
         <tr>
           <td style="border: 0; text-align: right; padding-right: 50px;"><span style="font-weight: 700; font-size: 17px">Nov 2</span></td><td style="border: 0;"><a style="margin: 0; color: #CB9445;" href="https://gam3r.org/">GAM3R Summit</a></td>
@@ -97,7 +97,7 @@ layout: home
 <tbody>
   <tr>
     <td class="tg-f8tv"><span style="font-weight:400;font-style:italic;text-decoration:none">9:00am-</span><br><span style="font-weight:400;font-style:italic;text-decoration:none">6:00pm</span></td>
-    <td class="tg-0pky"><span style="font-weight:bold;font-style:normal;text-decoration:none"><a href="https://rdi.berkeley.edu/zkp-workshop-2022/">ZKP Workshop</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="https://youtube.com/playlist?list=PLS01nW3Rtgor2MjOJBJexhQ6ZKWs6uQw8">Livestream</a></span></td>
+    <td class="tg-0pky"><span style="font-weight:bold;font-style:normal;text-decoration:none"><a href="https://rdi.berkeley.edu/zkp-workshop-2022/">ZKP Workshop</a></span></td>
   </tr>
   <tr>
     <td class="tg-f8tv"><span style="font-weight:400;font-style:italic;text-decoration:none">6:00pm-</span><br><span style="font-weight:400;font-style:italic;text-decoration:none">10:00pm</span></td>
