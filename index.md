@@ -161,7 +161,7 @@ layout: home
     <td class="tg-y698"><span style="font-weight:bold">Lunch</span></td>
   </tr>
   <tr>
-    <td class="tg-d5b1" colspan="2"><span style="font-weight:bold;font-style:normal;text-decoration:none">Session 3: </span><span style="font-weight:bold">Scalability/Consensus</span><span style="font-style:italic;float:right">session chair: Natacha Crooks</span>&nbsp;&nbsp;|&nbsp;&nbsp;<a style="font-weight:bold" href="https://youtu.be/q5v3tLLoOXM">Livestream</a></td>
+    <td class="tg-d5b1" colspan="2"><span style="font-weight:bold;font-style:normal;text-decoration:none">Session 3: </span><span style="font-weight:bold">Scalability/Consensus</span><span style="font-style:italic;float:right">session chair: Natacha Crooks</span></td>
   </tr>
   <tr>
     <td class="tg-f8tv">1:00pm</td>
@@ -188,7 +188,7 @@ layout: home
     <td class="tg-y698"><span style="font-weight:bold">Break</span></td>
   </tr>
   <tr>
-    <td class="tg-d5b1" colspan="2"><span style="font-weight:bold;font-style:normal;text-decoration:none">Session 4: </span><span style="font-weight:bold">DeFi &amp; DAO</span><span style="font-style:italic;float:right">session chair: Dahlia Malkhi</span>&nbsp;&nbsp;|&nbsp;&nbsp;<a style="font-weight:bold" href="https://youtu.be/q5v3tLLoOXM">Livestream</a></td>
+    <td class="tg-d5b1" colspan="2"><span style="font-weight:bold;font-style:normal;text-decoration:none">Session 4: </span><span style="font-weight:bold">DeFi &amp; DAO</span><span style="font-style:italic;float:right">session chair: Dahlia Malkhi</span></td>
   </tr>
   <tr>
     <td class="tg-0pky"><span style="font-style:italic">2:15pm</span></td>
