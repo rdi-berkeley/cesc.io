@@ -43,7 +43,7 @@ layout: home
     <table style="border-spacing: 15px;">
       <tbody>
         <tr>
-          <td style="border: 0; text-align: right; padding-right: 50px;"><span style="font-weight: 700; font-size: 17px">Oct 30</span></td><td style="border: 0;"><a style="margin: 0; color: #CB9445; " href="https://rdi.berkeley.edu/zkp-workshop-2022/"> ZKP Workshop</a> &nbsp;&nbsp;|&nbsp;&nbsp; <a style="margin: 0; color: #CB9445; " href="https://youtube.com/playlist?list=PLS01nW3Rtgor2MjOJBJexhQ6ZKWs6uQw8">Livestream</a></td>
+          <td style="border: 0; text-align: right; padding-right: 50px;"><span style="font-weight: 700; font-size: 17px">Oct 30</span></td><td style="border: 0;"><a style="margin: 0; color: #CB9445; " href="https://rdi.berkeley.edu/zkp-workshop-2022/"> ZKP Workshop</a> </td>
         </tr>
         <tr>
           <td style="border: 0; text-align: right; padding-right: 50px;"><span style="font-weight: 700; font-size: 17px">Oct 31</span></td><td style="border: 0;"><a style="margin: 0; color: #CB9445;" href="https://cesc.io/web3blockchaincareerfair">Career Fair</a></td>
@@ -104,7 +104,7 @@ layout: home
     <td class="tg-0pky"><span style="font-weight:bold;font-style:normal;text-decoration:none">ZKP Workshop Dinner and CESC Welcome Reception&nbsp;&nbsp;|&nbsp;&nbsp;<a href="https://lu.ma/zkpworkshopdinner">Register Here</a></span><br><span style="font-weight:400;font-style:italic">Co-hosted by p0xeidon, EigenLayer, Oasis, Scroll, zkcollective</span></td>
   </tr>
   <tr>
-    <td class="tg-h0w4" colspan="2"><span style="font-weight:400;font-style:normal;color:#FFF">Mon Oct 31&nbsp;&nbsp;|&nbsp;&nbsp;<a href="https://www.youtube.com/playlist?list=PLS01nW3Rtgop6VBy4Dvhea-hzOR2FAqsy">Livestream</a></span></td>
+    <td class="tg-h0w4" colspan="2"><span style="font-weight:400;font-style:normal;color:#FFF">Mon Oct 31</span></td>
   </tr>
   <tr>
     <td class="tg-0pky"><span style="font-weight:400;font-style:italic;text-decoration:none">9:00am</span></td>
