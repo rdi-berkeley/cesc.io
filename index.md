@@ -21,7 +21,7 @@ layout: home
           </p>
           <p style="margin-top: 2;"> 
             <span style="font-weight: 700; font-size: 17px"> Virtual Attending: </span> &nbsp;
-            <span style="font-weight: 400; font-size: 16px"><a style="margin: 0; color: #CB9445;" href="https://berkeley-rdi-crypto-economics-security-conference-cesc-2022.eventbrite.com">Registration (select attend virtually on order form)</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a style="margin: 0; color: #CB9445;" href="https://youtube.com/playlist?list=PLS01nW3Rtgop6VBy4Dvhea-hzOR2FAqsy">Livestream</a></span>
+            <span style="font-weight: 400; font-size: 16px"><a style="margin: 0; color: #CB9445;" href="https://berkeley-rdi-crypto-economics-security-conference-cesc-2022.eventbrite.com">Registration (select attend virtually on order form)</a></span>
           </p>
         </div>
     </div>
@@ -50,7 +50,7 @@ layout: home
         </tr>
         <tr>
           <td style="border: 0; text-align: right; padding-right: 50px;"><span style="font-weight: 700; font-size: 17px">Nov 1</span></td><td style="border: 0;"><a style="margin: 0; color: #CB9445;" href="https://xcelerator.berkeley.edu/demo-days/demo-day-2022/
-">Xcelerator Demo Day</a> &nbsp;&nbsp;|&nbsp;&nbsp; <a style="margin: 0; color: #CB9445; " href="https://youtube.com/playlist?list=PLS01nW3RtgoqabZ6CmagB-mU-FpeFPziQ">Livestream</a></td>
+">Xcelerator Demo Day</a> ></td>
         </tr>
         <tr>
           <td style="border: 0; text-align: right; padding-right: 50px;"><span style="font-weight: 700; font-size: 17px">Nov 2</span></td><td style="border: 0;"><a style="margin: 0; color: #CB9445;" href="https://gam3r.org/">GAM3R Summit</a></td>
@@ -227,7 +227,7 @@ layout: home
     <td class="tg-y698"><span style="font-weight:bold">Evening meetup hosted by Crust Network, OAK Network & Fairmint</span>&nbsp;&nbsp;|&nbsp;&nbsp;<a style="font-weight:bold" href="https://www.eventbrite.com/e/cesc-opening-night-event-crust-networkoak-network-fairminterupture-tickets-444885984957">Register here</a><br><span style="font-weight:400;font-style:italic;text-decoration:none">Spats Bar</span></td>
   </tr>
   <tr>
-    <td class="tg-h0w4" colspan="2"><span style="font-weight:400;font-style:normal;color:#FFF">Tue Nov 1&nbsp;&nbsp;|&nbsp;&nbsp;<a href="https://youtube.com/playlist?list=PLS01nW3Rtgop6VBy4Dvhea-hzOR2FAqsy">Livestream</a></span></td>
+    <td class="tg-h0w4" colspan="2"><span style="font-weight:400;font-style:normal;color:#FFF">Tue Nov 1</span></td>
   </tr>
   <tr>
     <td class="tg-d5b1" colspan="2"><span style="font-weight:bold;text-decoration:none">Session 5: </span><span style="font-weight:bold">Security</span><span style="font-style:italic;float:right">session chair: Yupeng Zhang</span></td>
@@ -292,7 +292,7 @@ layout: home
     <td class="tg-y698"><span style="font-weight:bold">Lunch</span></td>
   </tr>
   <tr>
-    <td class="tg-d5b1" colspan="2"><span style="font-weight:700;font-style:normal;text-decoration:none">Session 7: CryptoEconomics I</span><span style="font-style:italic;float:right">session chair: Glen Weyl</span>&nbsp;&nbsp;|&nbsp;&nbsp;<a style="font-weight:bold" href="https://youtu.be/O6d0x6NXOig">Livestream</a></td>
+    <td class="tg-d5b1" colspan="2"><span style="font-weight:700;font-style:normal;text-decoration:none">Session 7: CryptoEconomics I</span><span style="font-style:italic;float:right">session chair: Glen Weyl</span></td>
   </tr>
   <tr>
     <td class="tg-0pky"><span style="font-style:italic">1:00pm</span></td>
@@ -315,7 +315,7 @@ layout: home
     <td class="tg-y698"><span style="font-weight:bold">Break</span></td>
   </tr>
   <tr>
-    <td class="tg-d5b1" colspan="2"><span style="font-weight:700;font-style:normal;text-decoration:none">Session 8: </span><span style="font-weight:700">CryptoEconomics II</span><span style="font-style:italic;float:right">session chair: Arthur Gervais</span>&nbsp;&nbsp;|&nbsp;&nbsp;<a style="font-weight:bold" href="https://youtu.be/O6d0x6NXOig">Livestream</a></td>
+    <td class="tg-d5b1" colspan="2"><span style="font-weight:700;font-style:normal;text-decoration:none">Session 8: </span><span style="font-weight:700">CryptoEconomics II</span><span style="font-style:italic;float:right">session chair: Arthur Gervais</span></td>
   </tr>
   <tr>
     <td class="tg-0pky"><span style="font-weight:400;font-style:italic;text-decoration:none">2:05pm</span></td>
@@ -334,7 +334,7 @@ layout: home
     <td class="tg-y698"><span style="font-weight:bold;font-style:normal;text-decoration:none">Reception &amp; poster session</span></td>
   </tr>
   <tr>
-    <td class="tg-d5b1" colspan="2"><span style="font-weight:700;font-style:normal;text-decoration:none"><a href="https://xcelerator.berkeley.edu/demo-days/demo-day-2022/">Berkeley Blockchain Xcelerator Demo Day</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="https://youtube.com/playlist?list=PLS01nW3RtgoqabZ6CmagB-mU-FpeFPziQ">Livestream</a></span></td>
+    <td class="tg-d5b1" colspan="2"><span style="font-weight:700;font-style:normal;text-decoration:none"><a href="https://xcelerator.berkeley.edu/demo-days/demo-day-2022/">Berkeley Blockchain Xcelerator Demo Day</a></span></td>
   </tr>
   <tr>
     <td class="tg-0pky"><span style="font-weight:400;font-style:italic;text-decoration:none">4:30pm</span></td>
