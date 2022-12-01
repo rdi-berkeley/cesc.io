@@ -152,11 +152,6 @@ layout: default
         <img class="affiliated" src="/assets/images/eluvio_logo.png" alt="Eluv.io" />
       </a>
     </div>
-    <div class="affiliated-item">
-      <a href="https://nervos.org" style="margin: 0; padding: 0;">
-        <img class="affiliated" src="/assets/images/nervos_logo.png" alt="Nervos" />
-      </a>
-    </div>
   </div>
   <div class="affiliated-images-container">
     <div class="affiliated-item">
@@ -189,7 +184,6 @@ layout: default
 <li style="margin: 10px">Ripple Labs: &emsp;<a href="https://ripple.com/careers/all-jobs/" style="font-size:15px">Career Page</a> </li>
 <li style="margin: 10px">HashKey Fintech Investment: &emsp;<a href="https://www.hashkey.com/en/open-position" style="font-size:15px">Career Page</a> </li>
 <li style="margin: 10px">Eluv.io: &emsp;<a href="https://eluvio.co/careers/" style="font-size:15px">Career Page</a> </li>
-<li style="margin: 10px">Nervos: &emsp;<a href="https://www.nervos.org/about/join-us" style="font-size:15px">Career Page</a> </li>
 <li style="margin: 10px">0x Labs: &emsp;<a href="https://boards.greenhouse.io/0x" style="font-size:15px">Career Page</a> </li>
 <li style="margin: 10px">Babylon: &emsp;<a href="https://babylonchain.io/career" style="font-size:15px">Career Page</a> </li>
 <li style="margin: 10px">Evmos: &emsp;<a href="https://boards.eu.greenhouse.io/evmos" style="font-size:15px">Career Page</a> </li>
