@@ -482,11 +482,7 @@ layout: home
             <img class="sponsor-item-img" src='/assets/images/sponsors/0x.png' />
           </a>
         </div>
-        <div class="sponsor-item">
-          <a href="https://www.nervos.org/" style="text-decoration:none">
-            <img class="sponsor-item-img" src='/assets/images/sponsors/nervos.png' />
-          </a>
-        </div>
+        
         <div class="sponsor-item">
           <a href="https://capital.hashkey.com/" style="text-decoration:none">
             <img class="sponsor-item-img" src='/assets/images/sponsors/hashkey.png' />
